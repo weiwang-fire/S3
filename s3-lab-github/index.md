@@ -1,37 +1,36 @@
 ---
 title: About
-heading: Safe, Sustainable, Smart
-intro: Materials and systems for battery safety and the built environment.
+heading: Safe, Smart, Sustainable
+intro: Materials and systems for energy, aerospace, the built environment and extreme conditions.
 ---
 
-Welcome to **S³ Lab — Safe, Sustainable, Smart Materials & Systems**, a research group founded and led by **Dr Wei Wang** at RMIT University, Melbourne.
+## About S³ Lab
 
-We investigate how materials behave under heat and fire, and how their composition, structure and interfaces can improve safety. Our research connects materials science with fire safety engineering, with applications in energy storage and buildings.
+**S³ Lab — Safe, Smart, Sustainable Materials & Systems** is a research group founded and led by Dr Wei Wang at RMIT University, Melbourne.
 
-## Our research
+The three S's express our approach to materials and systems: **Safe** by improving resistance to fire, thermal hazards and demanding environments; **Smart** by integrating sensing, responsive behaviour and complementary functions; and **Sustainable** by designing for resource efficiency, lower energy use and reduced environmental impact.
 
-**Battery and energy storage safety.** We study thermal stability and protection strategies for battery materials and systems, including passive fire protection for residential energy storage.
+We combine materials design, experiments and multiscale modelling to connect material behaviour with system performance. Our research spans battery safety and thermal management, energy-efficient building materials, fire-safe composites, multifunctional protection, and smart textiles and sensing. We also explore lightweight thermal protection and multifunctional materials for aerospace, defence and other extreme environments, drawing on our work in aerogels, fire resistance and electromagnetic shielding.
 
-**Fire-resistant materials.** We investigate coatings, polymer nanocomposites and porous materials, focusing on the relationship between material structure and response to heat and fire.
+Across these connected directions, we aim to protect people and infrastructure while supporting lower-carbon technologies and the transition towards net zero.
 
-**Thermal management.** We explore insulation and passive cooling materials that address heat transfer and fire safety in the built environment.
+## Research at a glance
 
-[Explore our research]({{ '/research/' | relative_url }})
-
-## Research leadership
-
-Wei sets the group's research direction and guides experimental planning, interpretation and researcher development. He established a battery safety laboratory at RMIT and provides day-to-day guidance to doctoral and postdoctoral researchers.
-
-[Meet the team]({{ '/people/' | relative_url }}) · [Explore current projects]({{ '/projects/' | relative_url }})
+<ul class="research-glance">
+{% for theme in site.data.research %}
+  <li><a class="glance-link" data-theme="{{ theme.id }}" href="{{ '/research/' | relative_url }}#{{ theme.id }}">{{ theme.title | escape }}</a> — {{ theme.summary | escape }}</li>
+{% endfor %}
+</ul>
 
 ## About Wei
 
-Wei is a Lecturer in Fire Safety Engineering at RMIT University. He earned PhDs from the University of Science and Technology of China and City University of Hong Kong in 2019. His research spans fire-resistant materials, energy storage safety and thermal management.
+**Dr Wei Wang** is a Lecturer and ARC DECRA Fellow at RMIT University.
 
-[Read Wei's RMIT profile](https://www.rmit.edu.au/profiles/w/wei-wang)
+### Education
 
-## Work with us
+<ul class="education-list">
+  <li><strong>PhD, Fire Safety Engineering</strong>, University of Science and Technology of China, 2019.</li>
+  <li><strong>PhD, Civil Engineering</strong>, City University of Hong Kong, 2019.</li>
+</ul>
 
-We welcome enquiries about research collaboration and postgraduate supervision in battery safety, fire-resistant materials and thermal management.
-
-[Get in touch]({{ '/contact/' | relative_url }})
+For Wei's full biography, academic appointments and research profile, [visit his RMIT webpage](https://www.rmit.edu.au/profiles/w/wei-wang).

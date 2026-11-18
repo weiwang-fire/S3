@@ -1,0 +1,81 @@
+[
+  {
+    "id": "battery-safety",
+    "short_title": "Battery safety & thermal management",
+    "title": "Battery Safety & Thermal Management",
+    "summary": "Safer batteries through materials design, thermal-runaway control and thermal management.",
+    "scope": "Our work spans electrolytes, separators and protective materials, alongside cell-to-pack thermal management, thermal-runaway modelling and propagation mitigation. We connect material behaviour with the thermal response and safety of battery systems.",
+    "publication_ids": [
+      "W061",
+      "W080",
+      "W033",
+      "W177",
+      "W059"
+    ]
+  },
+  {
+    "id": "thermal-management",
+    "short_title": "Thermal regulation & sustainable buildings",
+    "title": "Thermal Regulation & Sustainable Buildings",
+    "summary": "Energy-efficient, fire-safe building materials through insulation and passive radiative cooling.",
+    "scope": "We develop wood composites, polymer foams and aerogels for thermal regulation in the built environment. Our research combines materials design, experiments and modelling to connect heat transfer, passive radiative cooling and fire safety with lower-energy buildings.",
+    "publication_ids": [
+      "W169",
+      "W196",
+      "W193",
+      "W188"
+    ]
+  },
+  {
+    "id": "fire-safe-composites",
+    "short_title": "Fire-safe polymers & composites",
+    "title": "Fire-Safe Polymers & Composites",
+    "summary": "Designing composite materials with improved resistance to ignition, heat and fire.",
+    "scope": "We investigate flame-retardant polymers, nanocomposites and coatings. Particular interests include interfacial compatibility, nanoscale organisation, thermal decomposition and the formation of protective char and barrier structures.",
+    "publication_ids": [
+      "W068",
+      "W130",
+      "W057",
+      "W087"
+    ]
+  },
+  {
+    "id": "protective-structures",
+    "short_title": "Multifunctional protective materials",
+    "title": "Multifunctional Protective Materials",
+    "summary": "Integrating electromagnetic shielding, thermal resistance and complementary protective functions.",
+    "scope": "We investigate conductive networks, layered composites, membranes and porous materials that combine electromagnetic shielding with fire resistance and other useful functions. Our focus is on how composition, interfaces and multiscale architecture govern protective performance.",
+    "publication_ids": [
+      "W197",
+      "W162",
+      "W051",
+      "W196"
+    ]
+  },
+  {
+    "id": "textiles-sensors",
+    "short_title": "Smart textiles & sensing materials",
+    "title": "Smart Textiles & Sensing Materials",
+    "summary": "Functional fabrics and responsive materials for protection, fire warning and sensing.",
+    "scope": "We develop flame-retardant textiles, multifunctional surface coatings and flexible sensing materials. Our research connects protective performance with electrical response, fire-warning behaviour and other functions in fabrics and sensing systems.",
+    "publication_ids": [
+      "W195",
+      "W178",
+      "W167",
+      "W023"
+    ]
+  },
+  {
+    "id": "aerospace-extreme-environments",
+    "short_title": "Aerospace & extreme environments",
+    "title": "Aerospace & Extreme-Environment Materials",
+    "summary": "Lightweight multifunctional materials for thermal protection and demanding aerospace and defence environments.",
+    "scope": "Our research develops lightweight aerogels and composite architectures that combine thermal regulation, fire resistance and electromagnetic shielding. Published work on shielding through fire, flame-retardant radiative-cooling aerogels and ablation-resistant networks underpins our exploration of multifunctional protection for aerospace and other extreme environments.",
+    "publication_ids": [
+      "W170",
+      "W196",
+      "W051",
+      "W157"
+    ]
+  }
+]

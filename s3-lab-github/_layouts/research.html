@@ -1,0 +1,32 @@
+---
+layout: default
+---
+{{ content }}
+<nav class="theme-nav" aria-label="Research themes">
+  {% for area in site.data.research %}<a href="#{{ area.id }}">{{ area.short_title | escape }}</a>{% endfor %}
+</nav>
+{% for area in site.data.research %}
+<section class="research-section" id="{{ area.id }}" aria-labelledby="{{ area.id }}-heading">
+  <h2 id="{{ area.id }}-heading">{{ area.title | escape }}</h2>
+  <p class="theme-summary">{{ area.summary | escape }}</p>
+  <p class="theme-scope">{{ area.scope | escape }}</p>
+  <h3 class="section-subtitle">Selected publications</h3>
+  <div class="paper-grid">
+    {% for paper_id in area.publication_ids %}
+    {% assign paper = site.data.publications | where: 'id', paper_id | first %}
+    {% if paper %}
+    <article class="paper-card">
+      {% if paper.image %}<a class="paper-image" href="{{ paper.url | escape }}" tabindex="-1" aria-hidden="true"><img src="{{ paper.image | relative_url }}" alt="" loading="lazy"></a>{% endif %}
+      <div class="paper-details">
+        <p class="paper-journal">{{ paper.journal | escape }} · {{ paper.year }}</p>
+        <h4><a href="{{ paper.url | escape }}">{{ paper.title | escape }}</a></h4>
+        <p class="paper-authors">{{ paper.authors | escape }}</p>
+        <a class="paper-link" href="{{ paper.url | escape }}">Read article <span aria-hidden="true">↗</span></a>
+      </div>
+    </article>
+    {% endif %}
+    {% endfor %}
+  </div>
+</section>
+{% endfor %}
+<p class="section-end-link"><a href="{{ '/publications/' | relative_url }}">Browse publications by year →</a></p>

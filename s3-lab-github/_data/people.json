@@ -1,0 +1,81 @@
+{
+  "postdocs": [
+    {
+      "name": "Dr Azra Sourjah",
+      "research": "Electrochemistry, battery electrolytes, supercapacitors and energy storage",
+      "url": "https://www.rmit.edu.au/profiles/s/azra-sourjah",
+      "photo": "/assets/people/azra-sourjah.png",
+      "scholar": "https://scholar.google.com/citations?user=NKN8MEUAAAAJ"
+    },
+    {
+      "name": "Dr Rajeendra Godakandage",
+      "research": "Structural engineering, fire safety and fire modelling",
+      "url": "https://www.rmit.edu.au/profiles/p/rajeendra-godakandage",
+      "photo": "/assets/people/rajeendra-godakandage.png",
+      "scholar": "https://scholar.google.com/citations?user=fgkP2uoAAAAJ"
+    }
+  ],
+  "rmit_count": 5,
+  "unsw_count": 2,
+  "rmit_phd": [
+    {
+      "name": "Mingjie Guo",
+      "research": "Thermal management and high-temperature-resistant materials for timber in buildings, with molecular dynamics simulations",
+      "photo": "/assets/people/mingjie-guo.png"
+    },
+    {
+      "name": "Xuqi Yang",
+      "research": "Flame-retardant and thermal management materials for buildings, including modelling and simulation",
+      "photo": "/assets/people/xuqi-yang.png"
+    },
+    {
+      "name": "Meng Zhou",
+      "research": "Multifunctional cementitious materials and concrete-based energy storage systems",
+      "photo": "/assets/people/meng-zhou.jpg"
+    },
+    {
+      "name": "Jiyuan Zhang",
+      "research": "Battery thermal runaway and its impacts on building materials",
+      "photo": "/assets/people/jiyuan-zhang.png"
+    },
+    {
+      "name": "Claire Xiaowen Wan",
+      "research": "Flame-retardant, heat-resistant woven composites with high-voltage electrical insulation for charging-station components",
+      "photo": "/assets/people/claire-xiaowen-wan.png"
+    }
+  ],
+  "unsw_phd": [
+    {
+      "name": "Yu Lei",
+      "research": "Lithium batteries, fire-warning sensors and flame-retardant materials",
+      "url": "https://scholar.google.com/citations?user=4GDHwW0AAAAJ",
+      "photo": "/assets/people/yu-lei.png"
+    },
+    {
+      "name": "Yuan Xien Lee",
+      "research": "Flame-retardant polymer composites and intumescent coatings",
+      "url": "https://scholar.google.com/citations?user=F7_6H5QAAAAJ",
+      "photo": "/assets/people/yuan-xien-lee.png"
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Dr Cheng-Fei Cao",
+      "role": "Postdoctoral Researcher · UNSW Sydney · 2025",
+      "research": "Flame-retardant polymers, bio-inspired films and coatings, and fire-warning sensors",
+      "photo": "/assets/people/cheng-fei-cao.png",
+      "scholar": "https://scholar.google.com/citations?user=OA9rG9UAAAAJ",
+      "year": 2025
+    }
+  ],
+  "completed_phd": [
+    {
+      "name": "Dr Ao Li",
+      "role": "PhD · UNSW Sydney · Completed 2023",
+      "research": "Computational fluid dynamics, multiphase flow, multifunctional materials, lithium-ion batteries and machine learning",
+      "photo": "/assets/people/ao-li.png",
+      "scholar": "https://scholar.google.com/citations?user=YFc8GoYAAAAJ",
+      "completion_year": 2023
+    }
+  ]
+}
