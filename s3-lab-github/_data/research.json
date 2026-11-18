@@ -9,8 +9,7 @@
       "W061",
       "W080",
       "W033",
-      "W177",
-      "W059"
+      "W177"
     ]
   },
   {
@@ -33,8 +32,8 @@
     "summary": "Designing composite materials with improved resistance to ignition, heat and fire.",
     "scope": "We investigate flame-retardant polymers, nanocomposites and coatings. Particular interests include interfacial compatibility, nanoscale organisation, thermal decomposition and the formation of protective char and barrier structures.",
     "publication_ids": [
+      "W093",
       "W068",
-      "W130",
       "W057",
       "W087"
     ]
@@ -49,7 +48,7 @@
       "W197",
       "W162",
       "W051",
-      "W196"
+      "W189"
     ]
   },
   {
@@ -59,10 +58,10 @@
     "summary": "Functional fabrics and responsive materials for protection, fire warning and sensing.",
     "scope": "We develop flame-retardant textiles, multifunctional surface coatings and flexible sensing materials. Our research connects protective performance with electrical response, fire-warning behaviour and other functions in fabrics and sensing systems.",
     "publication_ids": [
-      "W195",
-      "W178",
       "W167",
-      "W023"
+      "W183",
+      "W181",
+      "W038"
     ]
   },
   {
@@ -73,9 +72,9 @@
     "scope": "Our research develops lightweight aerogels and composite architectures that combine thermal regulation, fire resistance and electromagnetic shielding. Published work on shielding through fire, flame-retardant radiative-cooling aerogels and ablation-resistant networks underpins our exploration of multifunctional protection for aerospace and other extreme environments.",
     "publication_ids": [
       "W170",
-      "W196",
       "W051",
-      "W157"
+      "W157",
+      "W092"
     ]
   }
 ]

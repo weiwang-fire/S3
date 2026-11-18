@@ -26,11 +26,4 @@ Across these connected directions, we aim to protect people and infrastructure w
 
 **Dr Wei Wang** is a Lecturer and ARC DECRA Fellow at RMIT University.
 
-### Education
-
-<ul class="education-list">
-  <li><strong>PhD, Fire Safety Engineering</strong>, University of Science and Technology of China, 2019.</li>
-  <li><strong>PhD, Civil Engineering</strong>, City University of Hong Kong, 2019.</li>
-</ul>
-
 For Wei's full biography, academic appointments and research profile, [visit his RMIT webpage](https://www.rmit.edu.au/profiles/w/wei-wang).
