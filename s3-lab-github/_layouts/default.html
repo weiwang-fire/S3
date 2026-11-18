@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="{{ site.lang | escape }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }} | {{ site.title | escape }} · Wei Wang</title>
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <meta name="theme-color" content="#224e48">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ page.title | escape }} | {{ site.title | escape }}">
+  <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ site.data.profile.photo | absolute_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="S cubed Lab home">S<sup>3</sup> <span>Lab</span></a>
+      <nav aria-label="Main navigation">
+        {% for item in site.data.navigation %}
+        <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title | escape }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+  <div class="page-shell">
+    <aside class="profile" aria-label="Group leader">
+      <a class="portrait-link" href="{{ site.data.profile.rmit }}" aria-label="Dr Wei Wang's RMIT profile">
+        <img class="portrait" src="{{ site.data.profile.photo | relative_url }}" alt="{{ site.data.profile.photo_alt | escape }}" width="192" height="192">
+      </a>
+      <h2 class="profile-name">{{ site.data.profile.name | escape }}</h2>
+      <p class="profile-role">{{ site.data.profile.role | escape }}</p>
+      <p class="profile-position">{{ site.data.profile.position | escape }}<br>{{ site.data.profile.institution | escape }}</p>
+      <p class="profile-location">{{ site.data.profile.location | escape }}</p>
+      <ul class="profile-links">
+        <li><a href="{{ site.data.profile.rmit }}">RMIT profile <span aria-hidden="true">↗</span></a></li>
+        <li><a href="{{ site.data.profile.scholar }}">Google Scholar <span aria-hidden="true">↗</span></a></li>
+        <li><a href="{{ site.data.profile.orcid }}">ORCID <span aria-hidden="true">↗</span></a></li>
+        <li><a href="mailto:{{ site.data.profile.email }}">Email Wei <span aria-hidden="true">↗</span></a></li>
+      </ul>
+      <div class="lab-name">S<sup>3</sup> Lab<p>Safe, Sustainable, Smart<br>Materials &amp; Systems</p></div>
+    </aside>
+    <main id="main" class="content" tabindex="-1">
+      <p class="eyebrow">S<sup>3</sup> Lab · RMIT University</p>
+      <h1>{{ page.heading | default: page.title | escape }}</h1>
+      {% if page.intro %}<p class="page-intro">{{ page.intro | escape }}</p>{% endif %}
+      <div class="prose">{{ content }}</div>
+    </main>
+  </div>
+  <footer class="site-footer">
+    <div><p>© {{ site.time | date: '%Y' }} S³ Lab · Dr Wei Wang</p><p>Updated {{ site.updated | escape }}</p></div>
+  </footer>
+</body>
+</html>
