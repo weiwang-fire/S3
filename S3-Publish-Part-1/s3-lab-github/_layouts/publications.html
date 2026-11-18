@@ -1,0 +1,24 @@
+---
+layout: default
+---
+{{ content }}
+<p class="scholar-link"><a href="{{ site.data.profile.scholar }}">Google Scholar profile ↗</a></p>
+{% assign year_groups = site.data.publications | group_by: 'year' | sort: 'name' | reverse %}
+<nav class="year-nav" aria-label="Publication years">{% for group in year_groups %}<a href="#year-{{ group.name }}">{{ group.name }}</a>{% endfor %}</nav>
+{% for group in year_groups %}
+<section class="publication-year" id="year-{{ group.name }}" aria-labelledby="year-{{ group.name }}-heading">
+  <h2 id="year-{{ group.name }}-heading">{{ group.name }}</h2>
+  <ul class="bibliography">
+  {% for paper in group.items %}
+    <li><article class="bibliography-entry">
+      {% if paper.image %}<a class="bibliography-cover" href="{{ paper.url | escape }}" tabindex="-1" aria-hidden="true"><img src="{{ paper.image | relative_url }}" alt="" loading="lazy"></a>{% endif %}
+      <div class="bibliography-details">
+      <h3><a href="{{ paper.url | escape }}">{{ paper.title | escape }}</a></h3>
+      <p class="bibliography-authors">{{ paper.authors | escape }}</p>
+      <p class="bibliography-journal"><cite>{{ paper.journal | escape }}</cite>{% if paper.volume != blank %}, {{ paper.volume | escape }}{% endif %}{% if paper.pages != blank %}, {{ paper.pages | escape }}{% endif %} · {{ paper.year }}{% if paper.doi %} <a class="doi-link" href="https://doi.org/{{ paper.doi | escape }}">DOI ↗</a>{% endif %}</p>
+      </div>
+    </article></li>
+  {% endfor %}
+  </ul>
+</section>
+{% endfor %}

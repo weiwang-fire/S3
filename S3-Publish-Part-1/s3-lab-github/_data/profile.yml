@@ -1,0 +1,13 @@
+# Edit the text in quotes, then commit your changes in GitHub.
+name: "Dr Wei Wang"
+role: "Group Lead"
+position: "Lecturer"
+institution: "RMIT University"
+department: "School of Engineering"
+location: "Melbourne, Australia"
+email: "wei.wang@rmit.edu.au"
+photo: "/assets/images/wei-wang.jpeg"
+photo_alt: "Dr Wei Wang"
+rmit: "https://www.rmit.edu.au/profiles/w/wei-wang"
+scholar: "https://scholar.google.com/citations?user=RQ-WOToAAAAJ"
+orcid: "https://orcid.org/0000-0001-5788-6314"

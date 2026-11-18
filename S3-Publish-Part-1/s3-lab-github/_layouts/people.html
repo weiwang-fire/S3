@@ -1,0 +1,61 @@
+---
+layout: default
+---
+{{ content }}
+<section aria-labelledby="lead-heading" class="people-section">
+  <h2 id="lead-heading">Group Lead</h2>
+  <article class="leader-card">
+    <img src="{{ site.data.profile.photo | relative_url }}" alt="Dr Wei Wang" width="140" height="140">
+    <div><h3>Dr Wei Wang</h3><p class="person-role">Group Lead</p><p>Lecturer · ARC DECRA Fellow<br>RMIT University</p><p><a href="{{ site.data.profile.rmit }}">RMIT profile ↗</a> <span class="link-separator">·</span> <a href="{{ site.data.profile.scholar }}">Google Scholar ↗</a></p></div>
+  </article>
+</section>
+<section aria-labelledby="postdoc-heading" class="people-section">
+  <h2 id="postdoc-heading">Postdoctoral Researchers</h2>
+  <div class="people-grid">
+    {% for person in site.data.people.postdocs %}
+    <article class="person-card">
+      {% if person.photo %}<img class="person-photo" src="{{ person.photo | relative_url }}" alt="{{ person.name | escape }}" loading="lazy">{% endif %}
+      <div><h3>{{ person.name | escape }}</h3><p class="person-role">Postdoctoral Researcher · RMIT University</p>{% if person.research %}<p>{{ person.research | escape }}</p>{% endif %}<p>{% if person.url %}<a href="{{ person.url | escape }}">Research profile ↗</a>{% endif %}{% if person.scholar %} <span class="link-separator">·</span> <a href="{{ person.scholar | escape }}">Google Scholar ↗</a>{% endif %}</p></div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+<section aria-labelledby="phd-heading" class="people-section">
+  <h2 id="phd-heading">PhD Researchers</h2>
+  <div class="doctoral-status-grid">
+    <section aria-labelledby="ongoing-heading"><h3 id="ongoing-heading">Ongoing</h3>
+  <div class="doctoral-groups">
+    <section aria-labelledby="rmit-phd"><h3 id="rmit-phd">RMIT University</h3>
+      <div class="doctoral-member-grid">
+      {% for person in site.data.people.rmit_phd %}<article class="doctoral-person{% if person.photo %} doctoral-person--photo{% endif %}">{% if person.photo %}<img class="doctoral-photo" src="{{ person.photo | relative_url }}" alt="{{ person.name | escape }}" loading="lazy">{% endif %}<div><h4>{{ person.name | escape }}</h4>{% if person.research %}<p>{{ person.research | escape }}</p>{% endif %}{% if person.url %}<a href="{{ person.url | escape }}">Google Scholar ↗</a>{% endif %}</div></article>{% endfor %}
+      </div>
+    </section>
+    <section aria-labelledby="unsw-phd"><h3 id="unsw-phd">UNSW Sydney</h3>
+      <div class="doctoral-member-grid">
+      {% for person in site.data.people.unsw_phd %}<article class="doctoral-person{% if person.photo %} doctoral-person--photo{% endif %}">{% if person.photo %}<img class="doctoral-photo" src="{{ person.photo | relative_url }}" alt="{{ person.name | escape }}" loading="lazy">{% endif %}<div><h4>{{ person.name | escape }}</h4>{% if person.research %}<p>{{ person.research | escape }}</p>{% endif %}{% if person.url %}<a href="{{ person.url | escape }}">Google Scholar ↗</a>{% endif %}</div></article>{% endfor %}
+      </div>
+    </section>
+  </div>
+    </section>
+    <section aria-labelledby="completed-heading"><h3 id="completed-heading">Completed</h3>
+      {% for person in site.data.people.completed_phd %}
+      <article class="doctoral-person doctoral-person--photo">
+        <img class="doctoral-photo" src="{{ person.photo | relative_url }}" alt="{{ person.name | escape }}" loading="lazy">
+        <div><h4>{{ person.name | escape }}</h4><p class="person-role">PhD · <span class="doctoral-university">UNSW Sydney</span> · {{ person.completion_year }}</p><p>{{ person.research | escape }}</p><a href="{{ person.scholar | escape }}">Google Scholar ↗</a></div>
+      </article>
+      {% endfor %}
+    </section>
+  </div>
+</section>
+
+<section aria-labelledby="alumni-heading" class="people-section">
+  <h2 id="alumni-heading">Alumni</h2>
+  <div class="people-grid">
+    {% for person in site.data.people.alumni %}
+    <article class="person-card">
+      <img class="person-photo" src="{{ person.photo | relative_url }}" alt="{{ person.name | escape }}" loading="lazy">
+      <div><h3>{{ person.name | escape }}</h3><p class="person-role">{{ person.role | escape }}</p><p>{{ person.research | escape }}</p><p><a href="{{ person.scholar | escape }}">Google Scholar ↗</a></p></div>
+    </article>
+    {% endfor %}
+  </div>
+</section>

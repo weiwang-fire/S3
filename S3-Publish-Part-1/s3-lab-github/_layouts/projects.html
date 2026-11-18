@@ -1,0 +1,20 @@
+---
+layout: default
+---
+{{ content }}
+<div class="project-list">
+  {% for project in site.data.projects %}
+  <article class="project-card">
+    <div class="project-funder">
+      {% if project.logo %}<img src="{{ project.logo | relative_url }}" alt="{{ project.funder | escape }}" loading="lazy">{% else %}<p>{{ project.funder | escape }}</p>{% endif %}
+    </div>
+    <div class="project-body">
+      <p class="project-scheme">{{ project.scheme | escape }}</p>
+      <h2>{{ project.title | escape }}</h2>
+      <p>{{ project.summary | escape }}</p>
+      {% if project.role %}<p class="project-role"><strong>Wei's role</strong> {{ project.role | escape }}</p>{% endif %}
+      {% if project.url %}<p><a href="{{ project.url | escape }}">Project details ↗</a></p>{% endif %}
+    </div>
+  </article>
+  {% endfor %}
+</div>

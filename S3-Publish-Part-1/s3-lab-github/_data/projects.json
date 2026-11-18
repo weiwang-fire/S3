@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bpc-residential-battery",
+    "title": "Passive fire protection requirements for battery storage in residential settings",
+    "funder": "Building and Plumbing Commission",
+    "scheme": "Research Grant Program",
+    "role": "Co-investigator and senior supervisor",
+    "summary": "Investigating passive fire protection for residential battery storage through battery fire characterisation, experiments and validated fire modelling. Wei guides research and experimental planning with the project researchers.",
+    "url": "https://www.bpc.vic.gov.au/about-bpc/research-reports-and-data/research",
+    "logo": "/assets/funders/bpc-logo.png"
+  },
+  {
+    "id": "ssp-fire-safety",
+    "title": "Fire safety for emerging renewable energy hazards",
+    "funder": "Victorian Government",
+    "scheme": "Skills Solutions Partnerships Round 3",
+    "role": "Chief Investigator, course coordinator and academic subject matter expert",
+    "summary": "Developing microcredentials that equip practising professionals to assess emerging fire risks in energy systems and the built environment. Wei leads the microcredential on fire safety of emerging energy systems in buildings and infrastructure.",
+    "url": "https://www.rmit.edu.au/news/all-news/2026/oct/microcredential-supports-fire-safety",
+    "logo": "/assets/funders/victoria-logo.png"
+  },
+  {
+    "id": "crcp-hot-loads",
+    "title": "Hot Loads: Advancing fire tech for lithium battery fires in waste trucks",
+    "funder": "Australian Government",
+    "scheme": "Cooperative Research Centres Projects, Round 18",
+    "role": "Project investigator, RMIT University",
+    "summary": "An industry–research collaboration developing multi-sensor detection and early intervention technologies for lithium-ion battery fires in waste collection vehicles.",
+    "url": "https://business.gov.au/Grants-and-Programs/Cooperative-Research-Centres-Projects-CRCP-Grants/CRC-Projects-selection-round-outcomes",
+    "logo": "/assets/funders/industry-logo.png"
+  },
+  {
+    "id": "crcp-bushfire-housing",
+    "title": "Bushfire-safe housing from mine tailings via Robotic 3D printing",
+    "funder": "Australian Government",
+    "scheme": "Cooperative Research Centres Projects, Round 19",
+    "role": "Project investigator, RMIT University",
+    "summary": "A collaborative project exploring mine-tailings-based materials and robotic 3D printing for bushfire-safe housing.",
+    "url": null,
+    "logo": "/assets/funders/industry-logo.png"
+  },
+  {
+    "id": "decra-biomass-coatings",
+    "title": "Multifunctional Biomass Coatings for Electrostatic Induced Fire Hazards",
+    "funder": "Australian Research Council",
+    "scheme": "Discovery Early Career Researcher Award",
+    "role": "DECRA Fellow",
+    "summary": "Developing multifunctional biomass-based coatings to address fire hazards associated with static electricity, connecting materials chemistry, electrical behaviour and fire protection.",
+    "url": "https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE230100180",
+    "logo": "/assets/funders/arc-logo.svg"
+  }
+]

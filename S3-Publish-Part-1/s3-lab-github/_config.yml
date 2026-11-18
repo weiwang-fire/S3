@@ -1,0 +1,21 @@
+title: S³ Lab
+description: Safe, Smart, Sustainable Materials & Systems. Research led by Dr Wei Wang at RMIT University for energy, aerospace, the built environment and extreme conditions.
+url: https://weiwang-fire.github.io
+baseurl: "/S3"
+lang: en-AU
+timezone: Australia/Melbourne
+markdown: kramdown
+permalink: pretty
+repository: weiwang-fire/S3
+updated: 18 November 2026
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .github
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

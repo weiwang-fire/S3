@@ -1,0 +1,3012 @@
+[
+  {
+    "id": "W197",
+    "title": "Harnessing impedance matching and destructive interference: a modular asymmetric nanofibrous conductive network for tunable absorption-dominant EMI shielding",
+    "authors": "Jinling Liu; Jiayu Lu; Dongyan Huang; Zhangqi Han; Yan Zhang; Bibo Wang; Dongming Qi; Wei Wang",
+    "year": 2026,
+    "journal": "Advanced Composites and Hybrid Materials",
+    "doi": "10.1007/s42114-026-02153-3",
+    "url": "https://doi.org/10.1007/s42114-026-02153-3",
+    "volume": "",
+    "pages": "",
+    "themes": [
+      "protective-structures"
+    ],
+    "author_role": "Corresponding author",
+    "primary_author": true,
+    "image": "/assets/journal-covers/advanced-composites-and-hybrid-materials.webp"
+  },
+  {
+    "id": "W196",
+    "title": "Multiscale scattering design of bio-based phosphorylated nanocellulose aerogels for flame-retardant radiative cooling",
+    "authors": "Shaodan Xu; Chun He; Ting Lü; Mingjie Guo; Ying Pan; Lulu Xu; Kate Nguyen; Yan Zhang; Yao Yuan; Wei Wang",
+    "year": 2026,
+    "journal": "Materials Horizons",
+    "doi": "10.1039/d6mh01470d",
+    "url": "https://doi.org/10.1039/d6mh01470d",
+    "volume": "",
+    "pages": "",
+    "themes": [
+      "thermal-management",
+      "fire-safe-composites",
+      "protective-structures",
+      "aerospace-extreme-environments"
+    ],
+    "author_role": "Corresponding author",
+    "primary_author": true,
+    "image": "/assets/journal-covers/materials-horizons.jpg"
+  },
+  {
+    "id": "W195",
+    "title": "Bio-based multifunctional coatings for cotton fabrics: integrating flame retardancy, antibacterial and hydrophobic properties",
+    "authors": "Yudong Wang; Liyuan Luo; Wane Ning; Ying Pan; Haifeng Pan; Wei Wang",
+    "year": 2026,
+    "journal": "Cellulose",
+    "doi": "10.1007/s10570-026-07223-9",
+    "url": "https://doi.org/10.1007/s10570-026-07223-9",
+    "volume": "",
+    "pages": "",
+    "themes": [
+      "fire-safe-composites",
+      "textiles-sensors"
+    ],
+    "author_role": "Corresponding author",
+    "primary_author": true,
+    "image": "/assets/journal-covers/cellulose.webp"
+  },
+  {
+    "id": "W194",
+    "title": "Core material effects on the low-velocity impact and compression-after-impact behavior of sandwich panels in composite battery enclosures",
+    "authors": "Yupu Dai; Yu Lei; Joel Chong; Wei Wang; Wenjin Xing; Youhong Tang",
+    "year": 2026,
+    "journal": "Composite Structures",
+    "doi": "10.1016/j.compstruct.2026.121013",
+    "url": "https://doi.org/10.1016/j.compstruct.2026.121013",
+    "volume": "399",
+    "pages": "121013",
+    "themes": [
+      "battery-safety",
+      "protective-structures"
+    ],
+    "image": "/assets/journal-covers/composite-structures-W194-1.png"
+  },
+  {
+    "id": "W193",
+    "title": "Microcellular–nanodomain engineering of fire-safe radiative-cooling polyurethane foams for low-carbon building insulation",
+    "authors": "Yao Yuan; Qinhe Guo; Min Chen; Long Mao; Ying Pan; Yan Zhang; Lulu Xu; Kate Nguyen; Wei Wang",
+    "year": 2026,
+    "journal": "Chemical Engineering Journal",
+    "doi": "10.1016/j.cej.2026.183057",
+    "url": "https://doi.org/10.1016/j.cej.2026.183057",
+    "volume": "549",
+    "pages": "183057",
+    "themes": [
+      "thermal-management",
+      "fire-safe-composites"
+    ],
+    "author_role": "Corresponding author",
+    "primary_author": true,
+    "image": "/assets/journal-covers/chemical-engineering-journal-W181-1.png"
+  },
+  {
+    "id": "W192",
+    "title": "An integrated all-climate battery thermal management system with synergistic functions of preservation, preheating, liquid cooling and thermal runaway mitigation",
+    "authors": "Chongmao Mo; Benjamin Tawiah; Anthony Chun Yin Yuen; Yongxi Wu; Dongxu Ouyang; Wei Wang; Xinyan Huang; Bin Fei",
+    "year": 2026,
+    "journal": "Energy",
+    "doi": "10.1016/j.energy.2026.142651",
+    "url": "https://doi.org/10.1016/j.energy.2026.142651",
+    "volume": "366",
+    "pages": "142651",
+    "themes": [
+      "battery-safety",
+      "thermal-management"
+    ],
+    "image": "/assets/journal-covers/energy-W177-2.png"
+  },
+  {
+    "id": "W191",
+    "title": "Thermal degradation and fire safety of polymer-based porous composites for thermal protection: From chemical stabilization to multiscale transport regulation",
+    "authors": "Zhaojun Wu; Ying Pan; Mingjie Guo; Lijuan Xu; Kate Nguyen; Lulu Xu; Ting Lü; Shaodan Xu; Wei Wang; Weizhao Hu",
+    "year": 2026,
+    "journal": "Polymer Degradation and Stability",
+    "doi": "10.1016/j.polymdegradstab.2026.112473",
+    "url": "https://doi.org/10.1016/j.polymdegradstab.2026.112473",
+    "volume": "253",
+    "pages": "112473",
+    "themes": [
+      "thermal-management",
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/polymer-degradation-and-stability-W191-2.png"
+  },
+  {
+    "id": "W190",
+    "title": "Bioinspired silicification of flame-retardant, thermally insulating, and robust bacterial cellulose composite aerogels",
+    "authors": "Shuohan Fang; Jia Su; Chengcheng Wang; Anli Tian; Wei Wang; Xia Zhou; Dezheng Kong; Dong Wang",
+    "year": 2026,
+    "journal": "International Journal of Biological Macromolecules",
+    "doi": "10.1016/j.ijbiomac.2026.154409",
+    "url": "https://doi.org/10.1016/j.ijbiomac.2026.154409",
+    "volume": "382",
+    "pages": "154409",
+    "themes": [
+      "thermal-management",
+      "fire-safe-composites",
+      "protective-structures"
+    ],
+    "image": "/assets/journal-covers/international-journal-of-biological-macromolecules-W190-1.png"
+  },
+  {
+    "id": "W189",
+    "title": "Electrochemical Exfoliation of Antioxidant Ti\n                    3\n                    C\n                    2\n                    T\n                    x\n                    MXene Flakes With Humidity‐Responsive Emissivity for Adaptive Infrared Camouflage",
+    "authors": "Zhanghan She; Yifan Si; Xia Zhou; Wenle Song; Wei Wang; Jia Su; Shuohan Fang; Qiong Tan; Shaohai Fu; Dong Wang",
+    "year": 2026,
+    "journal": "Small",
+    "doi": "10.1002/smll.75757",
+    "url": "https://doi.org/10.1002/smll.75757",
+    "volume": "",
+    "pages": "e75757",
+    "themes": [],
+    "image": "/assets/journal-covers/extra-small.png"
+  },
+  {
+    "id": "W188",
+    "title": "Phosphorylated cellulose-based hybrid aerogels with flame retardancy and hydrophobicity for passive radiative cooling",
+    "authors": "Chun He; Mingjie Guo; Shaodan Xu; Ying Pan; Lulu Xu; Yan Zhang; Hongting Zhao; Wei Wang",
+    "year": 2026,
+    "journal": "International Journal of Biological Macromolecules",
+    "doi": "10.1016/j.ijbiomac.2026.154100",
+    "url": "https://doi.org/10.1016/j.ijbiomac.2026.154100",
+    "volume": "380",
+    "pages": "154100",
+    "themes": [
+      "thermal-management",
+      "fire-safe-composites",
+      "protective-structures"
+    ],
+    "author_role": "Corresponding author",
+    "primary_author": true,
+    "image": "/assets/journal-covers/international-journal-of-biological-macromolecules-W190-1.png"
+  },
+  {
+    "id": "W187",
+    "title": "Fire‐Safe Polymeric Insulation Foams for Energy‐Efficient and Low‐Carbon Buildings",
+    "authors": "Qinhe Guo; Jiayi Pan; Dehui Jia; Min Chen; Danni Pan; Yao Yuan; Ying Pan; Yan Zhang; Lulu Xu; Kate Nguyen; Wei Wang",
+    "year": 2026,
+    "journal": "ENERGY & ENVIRONMENTAL MATERIALS",
+    "doi": "10.1002/eem2.70509",
+    "url": "https://doi.org/10.1002/eem2.70509",
+    "volume": "",
+    "pages": "e70509",
+    "themes": [
+      "thermal-management",
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-energy-environmental-materials-real.jpg"
+  },
+  {
+    "id": "W186",
+    "title": "A flame-retardant and LiNO3-sustained release separator towards high-safety lithium metal batteries",
+    "authors": "Yanyun Zhao; Xinyue Yang; Longfei Han; Mengdan Zhang; Xiangming Hu; Jiahui Liu; Xiang Xin; Lihua Jiang; Yurui Deng; Yuan Cheng; Yu Lei; Wei Wang",
+    "year": 2026,
+    "journal": "Journal of Energy Storage",
+    "doi": "10.1016/j.est.2026.123822",
+    "url": "https://doi.org/10.1016/j.est.2026.123822",
+    "volume": "179",
+    "pages": "123822",
+    "themes": [
+      "battery-safety",
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/journal-of-energy-storage-W186-1.png"
+  },
+  {
+    "id": "W185",
+    "title": "A metal–organic framework–derived phosphorus–nitrogen flame–retardant epoxy resin as an effective thermal barrier for suppressing thermal runaway propagation in lithium–ion batteries",
+    "authors": "Shuqi Dai; Li Li; Xin Kang; Junling Wang; Wenjie Guo; Qing Cao; Guanyu Cao; Guanyao Wu; Gang Tang; Wei Wang; Wei Cai; He Wang",
+    "year": 2026,
+    "journal": "Journal of Energy Storage",
+    "doi": "10.1016/j.est.2026.123502",
+    "url": "https://doi.org/10.1016/j.est.2026.123502",
+    "volume": "178",
+    "pages": "123502",
+    "themes": [
+      "battery-safety",
+      "fire-safe-composites",
+      "protective-structures"
+    ],
+    "image": "/assets/journal-covers/journal-of-energy-storage-W186-1.png"
+  },
+  {
+    "id": "W184",
+    "title": "Sustainable FeOCl-driven interfacial reconstruction for upcycling spent graphite anodes",
+    "authors": "Qihui Wang; Xueru Wang; Jie Zhou; Hui Wang; Juanjuan Liu; Xiuwei Ma; Wei Wang",
+    "year": 2026,
+    "journal": "Separation and Purification Technology",
+    "doi": "10.1016/j.seppur.2026.139346",
+    "url": "https://doi.org/10.1016/j.seppur.2026.139346",
+    "volume": "410",
+    "pages": "139346",
+    "themes": [],
+    "image": "/assets/journal-covers/separation-and-purification-technology-W184-1.png"
+  },
+  {
+    "id": "W183",
+    "title": "Biomass-based multifunctional materials enabling smart and environmentally compatible fire warning sensors",
+    "authors": "Yu Lei; Lulu Xu; Xueyi Zhao; Yan Zhang; Vipul Agarwal; Kate T. Q. Nguyen; Guan Heng Yeoh; Cheng Wang; Qing Nian Chan; Wei Wang",
+    "year": 2026,
+    "journal": "Advanced Composites and Hybrid Materials",
+    "doi": "10.1007/s42114-026-01947-9",
+    "url": "https://doi.org/10.1007/s42114-026-01947-9",
+    "volume": "9",
+    "pages": "412",
+    "themes": [
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/advanced-composites-and-hybrid-materials.webp"
+  },
+  {
+    "id": "W182",
+    "title": "Dual Active Sites Enhanced Plasmon‐Driven N\n                    2\n                    Photoreduction Over MoO\n                    3−X\n                    Nanosheets Under Visible Excitation",
+    "authors": "Huaiwei Zhang; Liang Bao; Ying Pan; Lulu Xu; Wei Wang",
+    "year": 2026,
+    "journal": "Small",
+    "doi": "10.1002/smll.74504",
+    "url": "https://doi.org/10.1002/smll.74504",
+    "volume": "22",
+    "pages": "e74504",
+    "themes": [],
+    "image": "/assets/journal-covers/extra-small.png"
+  },
+  {
+    "id": "W181",
+    "title": "Solvent-free asymmetric dual-conductive network for low-reflection EMI shielding and sensing in eco-friendly PU microfiber leather",
+    "authors": "Jiayu Lu; Jinbiao Zhao; Jinling Liu; Kai Yu; Yan Zhang; Bibo Wang; Junling Wang; Zhien Zheng; Dongming Qi; Wei Wang",
+    "year": 2026,
+    "journal": "Chemical Engineering Journal",
+    "doi": "10.1016/j.cej.2026.177745",
+    "url": "https://doi.org/10.1016/j.cej.2026.177745",
+    "volume": "542",
+    "pages": "177745",
+    "themes": [
+      "protective-structures",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/chemical-engineering-journal-W181-1.png"
+  },
+  {
+    "id": "W180",
+    "title": "High-rate and SOC effects on thermal runaway and propagation in LFP batteries: Influence of thermal management strategies",
+    "authors": "Yuxiang Yue; Li Li; Chao Cheng; Junling Wang; Zhirong Wang; Yajun Huang; Junhui Gong; Lei Zhang; Qize He; Wei Wang; Wei Cai",
+    "year": 2026,
+    "journal": "Journal of Energy Storage",
+    "doi": "10.1016/j.est.2026.122517",
+    "url": "https://doi.org/10.1016/j.est.2026.122517",
+    "volume": "167",
+    "pages": "122517",
+    "themes": [
+      "battery-safety",
+      "thermal-management"
+    ],
+    "image": "/assets/journal-covers/journal-of-energy-storage-W186-1.png"
+  },
+  {
+    "id": "W179",
+    "title": "Tunable absorption-dominated EMI shielding enabled by an asymmetric foam-film composite with modular bi-conductive networks",
+    "authors": "Yan Zhang; Ziqing Jiang; Jiayu Lu; Bibo Wang; Jinling Liu; Yanyan Wang; Zhien Zheng; Dongming Qi; Wei Wang",
+    "year": 2026,
+    "journal": "Progress in Organic Coatings",
+    "doi": "10.1016/j.porgcoat.2026.110207",
+    "url": "https://doi.org/10.1016/j.porgcoat.2026.110207",
+    "volume": "216",
+    "pages": "110207",
+    "themes": [
+      "protective-structures"
+    ],
+    "image": "/assets/journal-covers/progress-in-organic-coatings-W125-1.png"
+  },
+  {
+    "id": "W178",
+    "title": "Atomistic insights into thermal degradation and multifunctional design of layer-by-layer assembled PA/PEI/AgNWs cotton fabrics",
+    "authors": "Gang Tang; Zhen Zhang; Wenhao Li; Mingjie Guo; Ying Pan; Wei Wang; Tingxuan Yan; Lulu Xu; Dong Wang; Fan Wu; Xiuyu Liu",
+    "year": 2026,
+    "journal": "Progress in Organic Coatings",
+    "doi": "10.1016/j.porgcoat.2026.110171",
+    "url": "https://doi.org/10.1016/j.porgcoat.2026.110171",
+    "volume": "216",
+    "pages": "110171",
+    "themes": [
+      "textiles-sensors"
+    ],
+    "author_role": "Corresponding author",
+    "primary_author": true,
+    "image": "/assets/journal-covers/progress-in-organic-coatings-W125-1.png"
+  },
+  {
+    "id": "W177",
+    "title": "Coupled experimental and numerical investigations of an all-climate battery thermal management system with thermal runaway barrier",
+    "authors": "Chongmao Mo; Yongxi Wu; Anthony Chun Yin Yuen; Dongxu Ouyang; Wei Wang; Lei Zhang; Xinyan Huang; Xiaoqing Yang; Bin Fei",
+    "year": 2026,
+    "journal": "Energy",
+    "doi": "10.1016/j.energy.2026.141682",
+    "url": "https://doi.org/10.1016/j.energy.2026.141682",
+    "volume": "360",
+    "pages": "141682",
+    "themes": [
+      "battery-safety",
+      "thermal-management"
+    ],
+    "author_role": "Co-author",
+    "primary_author": false,
+    "image": "/assets/journal-covers/energy-W177-2.png"
+  },
+  {
+    "id": "W176",
+    "title": "Contributions of SARA fractions to asphalt fume composition via experiment and ReaxFF-molecule dynamics",
+    "authors": "Ming Jia; Hui Li; Xue Zhang; Yu Cheng; Ivan Miguel De Cachinho Cordeiro; A.C.Y. Yuen; Wei Wang; Cheng Wang; Guan Heng Yeoh",
+    "year": 2026,
+    "journal": "Fuel",
+    "doi": "10.1016/j.fuel.2026.138404",
+    "url": "https://doi.org/10.1016/j.fuel.2026.138404",
+    "volume": "414",
+    "pages": "138404",
+    "themes": [],
+    "image": "/assets/journal-covers/fuel-public-version.png"
+  },
+  {
+    "id": "W175",
+    "title": "Robust interfacial assembly of wood-based composites for high-efficiency cooling and fire safety",
+    "authors": "Mingjie Guo; Ying Pan; Yao Yuan; Kate Nguyen; Lulu Xu; Yan Zhang; Shaodan Xu; Dong Zhang; Ting Lü; Hongting Zhao; Wei Wang",
+    "year": 2026,
+    "journal": "Process Safety and Environmental Protection",
+    "doi": "10.1016/j.psep.2026.109008",
+    "url": "https://doi.org/10.1016/j.psep.2026.109008",
+    "volume": "213",
+    "pages": "109008",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/process-safety-and-environmental-protection-W175-2.png"
+  },
+  {
+    "id": "W174",
+    "title": "Flame-retardant and anti-dripping polylactic acid via in situ reactive blending: Effect of a crosslinked urethane network on mechanical and combustion properties",
+    "authors": "Chiyuan Chen; Siling Ouyang; Nan Deng; Hongyu Yang; Xiaming Feng; Chaojun Wan; Wei Wang; Jie Zheng",
+    "year": 2026,
+    "journal": "International Journal of Biological Macromolecules",
+    "doi": "10.1016/j.ijbiomac.2026.152554",
+    "url": "https://doi.org/10.1016/j.ijbiomac.2026.152554",
+    "volume": "366",
+    "pages": "152554",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/international-journal-of-biological-macromolecules-W190-1.png"
+  },
+  {
+    "id": "W173",
+    "title": "Preparation of multifunctional flame-retardant coating based on lignocellulose and its flame-retardant performance on expandable polystyrene (EPS) foam",
+    "authors": "Xiuyu Liu; Cunlong Fu; Yongkang Zhou; Wei Wang; Dan Deng; Xiaoyan Du; Qingming Zhu; Gang Tang",
+    "year": 2026,
+    "journal": "Industrial Crops and Products",
+    "doi": "10.1016/j.indcrop.2026.123223",
+    "url": "https://doi.org/10.1016/j.indcrop.2026.123223",
+    "volume": "245",
+    "pages": "123223",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/industrial-crops-and-products-W173-2.png"
+  },
+  {
+    "id": "W172",
+    "title": "Gradient functionalized strategy towards flame-retardant and strong bacterial cellulose aerogel fibers for fire warning",
+    "authors": "Dezheng Kong; Qiaoling Luo; Tao Yu; Wei Wang; Xia Zhou; Wei Zhang; Dong Wang; Baishun Chen; Shaohai Fu",
+    "year": 2026,
+    "journal": "Carbohydrate Polymers",
+    "doi": "10.1016/j.carbpol.2026.125379",
+    "url": "https://doi.org/10.1016/j.carbpol.2026.125379",
+    "volume": "385",
+    "pages": "125379",
+    "themes": [
+      "fire-safe-composites",
+      "protective-structures",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/carbohydrate-polymers-W172-1.png"
+  },
+  {
+    "id": "W171",
+    "title": "Layer-by-layer construction of a bio-derived phosphonate/MXene brick-and-mortar coating for wood: Thermal degradation, smoke suppression and antibacterial activity",
+    "authors": "Yao Yuan; Qinhe Guo; Weiliang Lin; Min Chen; Ying Pan; Bin Yu; Lulu Xu; Kate Nguyen; Wei Wang",
+    "year": 2026,
+    "journal": "Polymer Degradation and Stability",
+    "doi": "10.1016/j.polymdegradstab.2026.112174",
+    "url": "https://doi.org/10.1016/j.polymdegradstab.2026.112174",
+    "volume": "250",
+    "pages": "112174",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/polymer-degradation-and-stability-W191-2.png"
+  },
+  {
+    "id": "W170",
+    "title": "A sandwich-structured composite with fire-through electromagnetic interference shielding for extreme thermal environments",
+    "authors": "Yan Zhang; Ziqing Jiang; Yihao Yu; Bin Bian; Jiahui Wu; Zhien Zheng; Dongming Qi; Wei Wang",
+    "year": 2026,
+    "journal": "Composites Communications",
+    "doi": "10.1016/j.coco.2026.102833",
+    "url": "https://doi.org/10.1016/j.coco.2026.102833",
+    "volume": "64",
+    "pages": "102833",
+    "themes": [
+      "protective-structures",
+      "aerospace-extreme-environments"
+    ],
+    "author_role": "Corresponding author",
+    "primary_author": true,
+    "image": "/assets/journal-covers/composites-communications-W170-2.png"
+  },
+  {
+    "id": "W169",
+    "title": "Structural engineering of hierarchical aerogel-infused wood for synergistic daytime radiative cooling and fire safety",
+    "authors": "Mingjie Guo; Ying Pan; Yao Yuan; Lulu Xu; Yan Zhang; Shaodan Xu; Dihua Wu; Dong Zhang; Suling Zhang; Ting Lü; Hongting Zhao; Wei Wang",
+    "year": 2026,
+    "journal": "Chemical Engineering Journal",
+    "doi": "10.1016/j.cej.2026.176170",
+    "url": "https://doi.org/10.1016/j.cej.2026.176170",
+    "volume": "536",
+    "pages": "176170",
+    "themes": [
+      "thermal-management",
+      "fire-safe-composites",
+      "protective-structures"
+    ],
+    "author_role": "Co-corresponding author",
+    "primary_author": true,
+    "image": "/assets/journal-covers/chemical-engineering-journal-W181-1.png"
+  },
+  {
+    "id": "W168",
+    "title": "Cellulose nanofiber aerogel-encapsulated GO@LDH nanocomposite for effective simultaneous removal of copper(II) and chromium(VI) contaminants",
+    "authors": "Mingjie Guo; Qianyong Liang; Shengjun Xu; Qiaozhu Zhong; Wei Wang; Yan Zhang; Ying Pan; Dihua Wu; Dong Zhang; Ting Lü; Hongting Zhao",
+    "year": 2026,
+    "journal": "Cellulose",
+    "doi": "10.1007/s10570-026-07005-3",
+    "url": "https://doi.org/10.1007/s10570-026-07005-3",
+    "volume": "33",
+    "pages": "2819-2834",
+    "themes": [
+      "protective-structures"
+    ],
+    "image": "/assets/journal-covers/cellulose.webp"
+  },
+  {
+    "id": "W167",
+    "title": "Flame-retardant liquid metal in cellulose/MXene fire warning sensors",
+    "authors": "Yu Lei; Lulu Xu; Yuan Xien Lee; Yan Zhang; Yao Yuan; Anthony C.Y. Yuen; Vipul Agarwal; Kate T.Q. Nguyen; Guan Heng Yeoh; Cheng Wang; Qing Nian Chan; Wei Wang",
+    "year": 2026,
+    "journal": "Chemical Engineering Journal",
+    "doi": "10.1016/j.cej.2026.174679",
+    "url": "https://doi.org/10.1016/j.cej.2026.174679",
+    "volume": "533",
+    "pages": "174679",
+    "themes": [
+      "fire-safe-composites",
+      "textiles-sensors"
+    ],
+    "author_role": "Corresponding author",
+    "primary_author": true,
+    "image": "/assets/journal-covers/chemical-engineering-journal-W181-1.png"
+  },
+  {
+    "id": "W166",
+    "title": "Phosphorylated pullulan/chitosan biguanide hydrochloride flame retardant for construction of cotton fabric surface: preparation, flame retardancy, antibacterial properties and mechanical properties",
+    "authors": "Yudong Wang; Xuan Zhou; Ying Pan; Wane Ning; Haifeng Pan; Wei Wang",
+    "year": 2026,
+    "journal": "International Journal of Biological Macromolecules",
+    "doi": "10.1016/j.ijbiomac.2026.151103",
+    "url": "https://doi.org/10.1016/j.ijbiomac.2026.151103",
+    "volume": "351",
+    "pages": "151103",
+    "themes": [
+      "fire-safe-composites",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/international-journal-of-biological-macromolecules-W190-1.png"
+  },
+  {
+    "id": "W165",
+    "title": "Mechanistic insights and risk evaluation of thermal runaway in lithium-ion batteries under coupled temperature-rate conditions",
+    "authors": "Chuang He; Lei Xiao; Jiali Zhang; Zhirong Wang; Junling Wang; Liancong Wang; Lei Zhang; Wei Wang; Yajun Huang; Dongxu Ouyang; Tao Zhao",
+    "year": 2026,
+    "journal": "Chemical Engineering Journal",
+    "doi": "10.1016/j.cej.2026.174210",
+    "url": "https://doi.org/10.1016/j.cej.2026.174210",
+    "volume": "532",
+    "pages": "174210",
+    "themes": [
+      "battery-safety"
+    ],
+    "image": "/assets/journal-covers/chemical-engineering-journal-W181-1.png"
+  },
+  {
+    "id": "W164",
+    "title": "Toward climate-resilient and fire-safe buildings: Multifunctional surface materials integrating radiative cooling and flame retardancy",
+    "authors": "Xueyi Zhao; Yu Lei; Lulu Xu; Anthony Chun Yin Yuen; Ying Pan; Vipul Agarwal; Yao Yuan; Wei Cai; Kate T.Q. Nguyen; Guan Heng Yeoh; Wei Wang",
+    "year": 2026,
+    "journal": "Nano Today",
+    "doi": "10.1016/j.nantod.2026.102984",
+    "url": "https://doi.org/10.1016/j.nantod.2026.102984",
+    "volume": "67",
+    "pages": "102984",
+    "themes": [
+      "thermal-management",
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/nano-today-W164-1.png"
+  },
+  {
+    "id": "W163",
+    "title": "Molecularly engineered graphene-phosphazene-antioxidant nanocomposites: A nanoarchitectured flame retardant for high-safety EVA cable with extended service life and safety evaluation",
+    "authors": "Bibo Wang; Pengfei Jia; Wei Wang; Pengfei Sun; Jiansheng Sun; Fuhao Yu; Ningning Hong; Lei Song; Yuan Hu",
+    "year": 2026,
+    "journal": "Applied Materials Today",
+    "doi": "10.1016/j.apmt.2025.102996",
+    "url": "https://doi.org/10.1016/j.apmt.2025.102996",
+    "volume": "48",
+    "pages": "102996",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/applied-materials-today-W163-1.png"
+  },
+  {
+    "id": "W162",
+    "title": "Multifunctional melamine foam composites featuring asymmetric conductive networks for highly absorptive EMI shielding and infrared stealth",
+    "authors": "Jinling Liu; Jiayu Lu; Baoqing Yang; Dongyan Huang; Zhangqi Han; Yan Zhang; Bibo Wang; Dongming Qi; Wei Wang",
+    "year": 2026,
+    "journal": "Science China Materials",
+    "doi": "10.1007/s40843-025-3873-7",
+    "url": "https://doi.org/10.1007/s40843-025-3873-7",
+    "volume": "69",
+    "pages": "3613-3630",
+    "themes": [
+      "protective-structures"
+    ],
+    "author_role": "Corresponding author",
+    "primary_author": true,
+    "image": "/assets/journal-covers/science-china-materials.webp"
+  },
+  {
+    "id": "W161",
+    "title": "Advances in polyurethane (PU)-based microfiber synthetic leather: From manufacturing to applications",
+    "authors": "Jinbiao Zhao; Jiayu Lu; Yihao Yu; Zhien Zheng; Yutao Zhou; Zhangqi Han; Dongming Qi; Yan Zhang; Wei Wang",
+    "year": 2026,
+    "journal": "Composites Part B: Engineering",
+    "doi": "10.1016/j.compositesb.2026.113447",
+    "url": "https://doi.org/10.1016/j.compositesb.2026.113447",
+    "volume": "314",
+    "pages": "113447",
+    "themes": [
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/composites-part-b-engineering-W051-0.png"
+  },
+  {
+    "id": "W160",
+    "title": "Multi-dimensional signal evolution and heat transfer for thermal runaway propagation of large-capacity lithium-ion battery under overheating",
+    "authors": "Tao Long; Chuang He; Situo Li; Yunfeng Jia; Zhirong Wang; Junling Wang; Yajun Huang; Wei Wang; Tao Zhao; Hao Chen",
+    "year": 2026,
+    "journal": "Thermal Science and Engineering Progress",
+    "doi": "10.1016/j.tsep.2026.104524",
+    "url": "https://doi.org/10.1016/j.tsep.2026.104524",
+    "volume": "70",
+    "pages": "104524",
+    "themes": [
+      "battery-safety"
+    ],
+    "image": "/assets/journal-covers/thermal-science-and-engineering-progress-public-version.png"
+  },
+  {
+    "id": "W159",
+    "title": "Synergistic flame retardancy and mechanical reinforcement of bio-based PLA composites using polyphenol-assisted ammonium polyphosphate and sugarcane fiber",
+    "authors": "Bin Xue; Danxiang Wei; Jun Li; Yudong Wang; Haifeng Pan; Wei Wang",
+    "year": 2026,
+    "journal": "Journal of Thermoplastic Composite Materials",
+    "doi": "10.1177/08927057261436060",
+    "url": "https://doi.org/10.1177/08927057261436060",
+    "volume": "39",
+    "pages": "5864-5891",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/sage-materials-catalogue-source-12-4.png"
+  },
+  {
+    "id": "W158",
+    "title": "Embedded carbon dot mediator in a Ce-MoO\n                    \n                      3−\n                      x\n                    \n                    heterojunction for improved visible-light-driven N\n                    2\n                    fixation: performance and interfacial activation mechanism",
+    "authors": "Huaiwei Zhang; Liang Bao; Ying Pan; Lulu Xu; Wei Wang",
+    "year": 2026,
+    "journal": "Green Chemistry",
+    "doi": "10.1039/d5gc06146f",
+    "url": "https://doi.org/10.1039/d5gc06146f",
+    "volume": "28",
+    "pages": "3205-3214",
+    "themes": [],
+    "image": "/assets/journal-covers/extra-green-chemistry.jpg"
+  },
+  {
+    "id": "W157",
+    "title": "A Triple‐Network Aerogel Composite With Thermally Induced Phoenix‐Like Transformation: From Elastic Ablation Resistance to Efficient EMI Shielding",
+    "authors": "Yu Guan; Congke Gu; Guofang Qiu; Jiaxin Wu; Xizheng Lian; Xin Wang; Bin Fei; Wei Wang; Diantang Zhang; Wenwen Guo",
+    "year": 2026,
+    "journal": "Advanced Functional Materials",
+    "doi": "10.1002/adfm.202528431",
+    "url": "https://doi.org/10.1002/adfm.202528431",
+    "volume": "36",
+    "pages": "e28431",
+    "themes": [
+      "protective-structures",
+      "aerospace-extreme-environments"
+    ],
+    "image": "/assets/journal-covers/extra-advanced-functional-materials.png"
+  },
+  {
+    "id": "W156",
+    "title": "From waste to resource: valorizing hard segments from acidolyzed PU foam as additives in PVC",
+    "authors": "Yulu Zhu; Yujia Ding; Jianing Yang; Daoguang Han; Zheng Zhou; Meng Ma; Si Chen; Yanqin Shi; Huiwen He; Wei Wang; Xu Wang",
+    "year": 2026,
+    "journal": "Polymer Degradation and Stability",
+    "doi": "10.1016/j.polymdegradstab.2025.111909",
+    "url": "https://doi.org/10.1016/j.polymdegradstab.2025.111909",
+    "volume": "246",
+    "pages": "111909",
+    "themes": [],
+    "image": "/assets/journal-covers/polymer-degradation-and-stability-W191-2.png"
+  },
+  {
+    "id": "W152",
+    "title": "Defect-tailored graphite recovery from spent LIBs using natural deep eutectic solvents",
+    "authors": "Xueru Wang; Qihui Wang; Hui Wang; Juanjuan Liu; Jie Zhou; Wei Wang",
+    "year": 2026,
+    "journal": "Materials Futures",
+    "doi": "10.1088/2752-5724/ae17dd",
+    "url": "https://doi.org/10.1088/2752-5724/ae17dd",
+    "volume": "5",
+    "pages": "025101",
+    "themes": [],
+    "image": "/assets/journal-covers/extra-materials-futures.jpg"
+  },
+  {
+    "id": "W126",
+    "title": "Assessment of velocity variation algorithms in evacuation models with heterogeneously distributed factors",
+    "authors": "Sensen Xing; Cheng Wang; Wei Wang; Guanxiong Zhai; Eric Wai Ming Lee; Guan Heng Yeoh; Qing Nian Chan",
+    "year": 2026,
+    "journal": "Journal of Safety Science and Resilience",
+    "doi": "10.1016/j.jnlssr.2025.02.003",
+    "url": "https://doi.org/10.1016/j.jnlssr.2025.02.003",
+    "volume": "7",
+    "pages": "100202",
+    "themes": [],
+    "image": "/assets/journal-covers/journal-of-safety-science-and-resilience-W126-0.png"
+  },
+  {
+    "id": "W155",
+    "title": "Molecular dynamics insights into Ti3C2 MXene/chitosan composite as a flame-retardant barrier",
+    "authors": "Ivan Miguel De Cachinho Cordeiro; Timothy Bo Yuan Chen; Anthony Chun Yin Yuen; Bo Lin; Ming Jia; Wei Wang; Qian Chen; Wen-Jie Yang; Chang Tian; Cheng Wang; Guan Heng Yeoh",
+    "year": 2025,
+    "journal": "Communications Materials",
+    "doi": "10.1038/s43246-025-00997-8",
+    "url": "https://doi.org/10.1038/s43246-025-00997-8",
+    "volume": "6",
+    "pages": "268",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-communications-materials.png"
+  },
+  {
+    "id": "W154",
+    "title": "Anion-coupling coordination to optimize both lithium-metal anode interfacial stability and ionic conductivity of phosphate-based electrolytes for lithium metal batteries",
+    "authors": "Can Liao; Junfei Zhu; Xin Lin; Tuning Zheng; Song Duan; Jianhua Xiao; Junling Wang; Yinze Zuo; Yun Zheng; Wei Wang; Wei Yan; Yongqian Shi; Jiujun Zhang",
+    "year": 2025,
+    "journal": "Chemical Engineering Journal",
+    "doi": "10.1016/j.cej.2025.171076",
+    "url": "https://doi.org/10.1016/j.cej.2025.171076",
+    "volume": "526",
+    "pages": "171076",
+    "themes": [
+      "battery-safety"
+    ],
+    "image": "/assets/journal-covers/chemical-engineering-journal-W181-1.png"
+  },
+  {
+    "id": "W153",
+    "title": "Advances in Flame-Retardant Coatings for Rigid Polyurethane Foams: A Critical Review",
+    "authors": "Qinhe Guo; Jiong Chen; Lulu Xu; Min Chen; Yan Zhang; Yi Xiao; Yao Yuan; Kate Nguyen; Wei Wang",
+    "year": 2025,
+    "journal": "Fire",
+    "doi": "10.3390/fire8110419",
+    "url": "https://doi.org/10.3390/fire8110419",
+    "volume": "8",
+    "pages": "419",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-fire.png"
+  },
+  {
+    "id": "W151",
+    "title": "Transparent wood composites with phosphorylated cellulose for enhanced fire safety: A bioinspired solution for sustainable building materials",
+    "authors": "Mingjie Guo; Ying Pan; Wei Wang; Lulu Xu; Yan Zhang; Haifeng Pan; Shaodan Xu; Dihua Wu; Dong Zhang; Suling Zhang; Ting Lü; Hongting Zhao",
+    "year": 2025,
+    "journal": "Construction and Building Materials",
+    "doi": "10.1016/j.conbuildmat.2025.143711",
+    "url": "https://doi.org/10.1016/j.conbuildmat.2025.143711",
+    "volume": "495",
+    "pages": "143711",
+    "themes": [
+      "thermal-management",
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/construction-and-building-materials-W130-2.png"
+  },
+  {
+    "id": "W150",
+    "title": "Advancing thermal runaway modeling in lithium-ion batteries: A review of heat source models, thermodynamic frameworks, and microkinetic approaches",
+    "authors": "Mostafa M.E.H. Ali; Maryam Ghodrat; Wei Wang",
+    "year": 2025,
+    "journal": "Journal of Energy Storage",
+    "doi": "10.1016/j.est.2025.117762",
+    "url": "https://doi.org/10.1016/j.est.2025.117762",
+    "volume": "132",
+    "pages": "117762",
+    "themes": [
+      "battery-safety"
+    ],
+    "image": "/assets/journal-covers/journal-of-energy-storage-W186-1.png"
+  },
+  {
+    "id": "W149",
+    "title": "Phosphorylated sodium alginate-filled delignified wood-reinforced transparent wood: Crafting flame-retardant composites",
+    "authors": "Mingjie Guo; Ying Pan; Shengjun Xu; Wei Wang; Yan Zhang; Shaodan Xu; Dihua Wu; Dong Zhang; Suling Zhang; Ting Lü; Hongting Zhao",
+    "year": 2025,
+    "journal": "Carbohydrate Polymers",
+    "doi": "10.1016/j.carbpol.2025.124021",
+    "url": "https://doi.org/10.1016/j.carbpol.2025.124021",
+    "volume": "366",
+    "pages": "124021",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/carbohydrate-polymers-W172-1.png"
+  },
+  {
+    "id": "W148",
+    "title": "Constructing ceria stabilized copper‑manganese oxides with dry powder tolerance for CO oxidation: Amelioration of Cu-Mn cooperation",
+    "authors": "Ning Kang; Zhiqiang Zhao; Xiaoyang Yu; Wei Wang; Jin Lin; Shouxiang Lu",
+    "year": 2025,
+    "journal": "Chemical Engineering Journal",
+    "doi": "10.1016/j.cej.2025.169246",
+    "url": "https://doi.org/10.1016/j.cej.2025.169246",
+    "volume": "524",
+    "pages": "169246",
+    "themes": [],
+    "image": "/assets/journal-covers/chemical-engineering-journal-W181-1.png"
+  },
+  {
+    "id": "W147",
+    "title": "Advances in Wood Processing, Flame-Retardant Functionalization, and Multifunctional Applications",
+    "authors": "Yatong Fang; Kexuan Chen; Lulu Xu; Yan Zhang; Yi Xiao; Yao Yuan; Wei Wang",
+    "year": 2025,
+    "journal": "Polymers",
+    "doi": "10.3390/polym17192677",
+    "url": "https://doi.org/10.3390/polym17192677",
+    "volume": "17",
+    "pages": "2677",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-polymers.png"
+  },
+  {
+    "id": "W146",
+    "title": "Sustainable, transparent and fire-retardant wood composites",
+    "authors": "Mingjie Guo; Ying Pan; Shengjun Xu; Wei Wang; Yan Zhang; Shaodan Xu; Dihua Wu; Dong Zhang; Suling Zhang; Ting Lü; Hongting Zhao",
+    "year": 2025,
+    "journal": "Industrial Crops and Products",
+    "doi": "10.1016/j.indcrop.2025.121332",
+    "url": "https://doi.org/10.1016/j.indcrop.2025.121332",
+    "volume": "233",
+    "pages": "121332",
+    "themes": [],
+    "image": "/assets/journal-covers/industrial-crops-and-products-W173-2.png"
+  },
+  {
+    "id": "W145",
+    "title": "Advances in MOFs/clay nanocomposites within functional fire-safe polymeric materials",
+    "authors": "Jianwei Yuan; Ye-Tang Pan; Yichao Lin; Wei Wang; Wenchao Zhang; Kun Yao",
+    "year": 2025,
+    "journal": "Applied Clay Science",
+    "doi": "10.1016/j.clay.2025.107883",
+    "url": "https://doi.org/10.1016/j.clay.2025.107883",
+    "volume": "275",
+    "pages": "107883",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/applied-clay-science-W145-1.png"
+  },
+  {
+    "id": "W144",
+    "title": "Flame-Retardant Polyvinyl Alcohol Materials: Mechanisms, Design Strategies, and Multifunctional Applications",
+    "authors": "Dehui Jia; Lulu Xu; Danni Pan; Yi Xiao; Yan Zhang; Yao Yuan; Wei Wang",
+    "year": 2025,
+    "journal": "Polymers",
+    "doi": "10.3390/polym17192649",
+    "url": "https://doi.org/10.3390/polym17192649",
+    "volume": "17",
+    "pages": "2649",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-polymers.png"
+  },
+  {
+    "id": "W143",
+    "title": "Toward Repairable, Recyclable, Strong, and Flame-Retardant Poly(urethane–urea) Cross-Linked via Dynamic Diels–Alder Reaction",
+    "authors": "Hongliang Ding; Lu Liu; Xiaohua Liu; Hongfei He; Lini Wu; Na Sun; Keqing Zhou; Wei Wang; Chao Ding; Bin Yu",
+    "year": 2025,
+    "journal": "ACS Sustainable Chemistry & Engineering",
+    "doi": "10.1021/acssuschemeng.5c07981",
+    "url": "https://doi.org/10.1021/acssuschemeng.5c07981",
+    "volume": "13",
+    "pages": "16165-16177",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-acs-sustainable-chemistry-engineering-W143-1.png"
+  },
+  {
+    "id": "W142",
+    "title": "Chitosan-based transparent and flame-retardant bio-composite coatings for wooden materials with rapid fire monitoring response",
+    "authors": "Pei-Yuan Lv; Xiao-Lan Feng; Qi Shi; Jun-Jie Wan; Sai-Yu He; De-Mei Kong; Yang Li; Cheng-Fei Cao; Jie-Feng Gao; Wei Wang; Guo-Dong Zhang; Long-Cheng Tang",
+    "year": 2025,
+    "journal": "Construction and Building Materials",
+    "doi": "10.1016/j.conbuildmat.2025.142765",
+    "url": "https://doi.org/10.1016/j.conbuildmat.2025.142765",
+    "volume": "491",
+    "pages": "142765",
+    "themes": [
+      "fire-safe-composites",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/construction-and-building-materials-W130-2.png"
+  },
+  {
+    "id": "W141",
+    "title": "Integrating Flame‐Retardant Li‐Cu Anode With Self‐Extinguishing Polymer Electrolyte for Coordinated Thermal Runaway Suppression in Solid‐State Li Metal Batteries",
+    "authors": "Longfei Han; Mengdan Zhang; Xiangming Hu; Biao Kong; Wei Wang; Lihua Jiang; Yurui Deng; Yuan Cheng; Wei Wang",
+    "year": 2025,
+    "journal": "Carbon Neutralization",
+    "doi": "10.1002/cnl2.70034",
+    "url": "https://doi.org/10.1002/cnl2.70034",
+    "volume": "4",
+    "pages": "e70034",
+    "themes": [
+      "battery-safety",
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-carbon-neutralization.jpg"
+  },
+  {
+    "id": "W140",
+    "title": "Advances in fundamental materials and design strategies for electromagnetic shielding composites",
+    "authors": "Lei Liu; Shuhan Ye; Congke Gu; Wei Wang; Bin Fei; Wenwen Guo",
+    "year": 2025,
+    "journal": "Frontiers of Chemical Science and Engineering",
+    "doi": "10.1007/s11705-025-2592-8",
+    "url": "https://doi.org/10.1007/s11705-025-2592-8",
+    "volume": "19",
+    "pages": "80",
+    "themes": [
+      "protective-structures"
+    ],
+    "image": "/assets/journal-covers/extra-frontiers-chemical-science-engineering-complete.jpg"
+  },
+  {
+    "id": "W139",
+    "title": "Flame-Retardant Polyurea Coatings: Mechanisms, Strategies, and Multifunctional Enhancements",
+    "authors": "Danni Pan; Dehui Jia; Yao Yuan; Ying Pan; Wei Wang; Lulu Xu",
+    "year": 2025,
+    "journal": "Fire",
+    "doi": "10.3390/fire8080334",
+    "url": "https://doi.org/10.3390/fire8080334",
+    "volume": "8",
+    "pages": "334",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-fire.png"
+  },
+  {
+    "id": "W138",
+    "title": "Organophosphate-intercalated high-entropy LDHs for high-performance fire-safe thermoplastic polyurethane composites",
+    "authors": "Chuanshen Wang; Hongliang Ding; Lu Liu; Hongfei He; Bicheng Lin; Na Sun; Keqing Zhou; Wei Wang; Yuan Hu; Bin Yu",
+    "year": 2025,
+    "journal": "Polymer Degradation and Stability",
+    "doi": "10.1016/j.polymdegradstab.2025.111613",
+    "url": "https://doi.org/10.1016/j.polymdegradstab.2025.111613",
+    "volume": "241",
+    "pages": "111613",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/polymer-degradation-and-stability-W191-2.png"
+  },
+  {
+    "id": "W137",
+    "title": "Facile synthesis of phosphorylated lignocellulosic nanofibril/graphene oxide composite film via co-milling method towards enhancing mechanical and flame-retardant performance",
+    "authors": "Shi-Neng Li; Yu-Qin Yang; Yu-Tong Xu; Qing-Yue Ni; Baiyu Jiang; Ben Wang; Wei Wang; Long-Cheng Tang",
+    "year": 2025,
+    "journal": "Polymer Degradation and Stability",
+    "doi": "10.1016/j.polymdegradstab.2025.111604",
+    "url": "https://doi.org/10.1016/j.polymdegradstab.2025.111604",
+    "volume": "241",
+    "pages": "111604",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/polymer-degradation-and-stability-W191-2.png"
+  },
+  {
+    "id": "W136",
+    "title": "Review and Future Perspectives on Lithium Battery Fire Safety: Focusing on Design of Organic Components",
+    "authors": "Qianlong Li; Yunlei Xu; Ye‐Tang Pan; Wei Wang; Guan Heng Yeoh",
+    "year": 2025,
+    "journal": "ENERGY & ENVIRONMENTAL MATERIALS",
+    "doi": "10.1002/eem2.12892",
+    "url": "https://doi.org/10.1002/eem2.12892",
+    "volume": "8",
+    "pages": "e12892",
+    "themes": [
+      "battery-safety",
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-energy-environmental-materials-real.jpg"
+  },
+  {
+    "id": "W135",
+    "title": "Glass fiber-reinforced epoxy composites with high thermal conductivity, flame retardancy and mechanical strength",
+    "authors": "Ze-Tao Xiao; Hao-Jie Shi; Wei Wang; Qun Liu; Yu Li; Yuan Hu; Xin Wang",
+    "year": 2025,
+    "journal": "Composites Part A: Applied Science and Manufacturing",
+    "doi": "10.1016/j.compositesa.2025.108905",
+    "url": "https://doi.org/10.1016/j.compositesa.2025.108905",
+    "volume": "194",
+    "pages": "108905",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/composites-part-a-applied-science-and-manufacturing-W068-0.png"
+  },
+  {
+    "id": "W134",
+    "title": "Engineering durable nitrate-enriched solvation sheaths in carbonate electrolytes through functional separator design for high-voltage lithium metal batteries",
+    "authors": "Can Liao; Tuning Zheng; Junfei Zhu; Xin Lin; Song Duan; Jianhua Xiao; Wei Wang; Yun Zheng; Wei Yan; Jiujun Zhang",
+    "year": 2025,
+    "journal": "Nano Energy",
+    "doi": "10.1016/j.nanoen.2025.111283",
+    "url": "https://doi.org/10.1016/j.nanoen.2025.111283",
+    "volume": "142",
+    "pages": "111283",
+    "themes": [
+      "battery-safety"
+    ],
+    "image": "/assets/journal-covers/nano-energy-W134-2.png"
+  },
+  {
+    "id": "W133",
+    "title": "Eco-friendly design of double-layered coated cotton fabrics for dual-functional flame retardancy and electromagnetic interference shielding",
+    "authors": "Congke Gu; Liping Jin; Chenpeng Ji; Yu Guan; Lingxin He; Wei Wang; Wenwen Guo",
+    "year": 2025,
+    "journal": "Polymer Degradation and Stability",
+    "doi": "10.1016/j.polymdegradstab.2025.111494",
+    "url": "https://doi.org/10.1016/j.polymdegradstab.2025.111494",
+    "volume": "240",
+    "pages": "111494",
+    "themes": [
+      "fire-safe-composites",
+      "protective-structures",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/polymer-degradation-and-stability-W191-2.png"
+  },
+  {
+    "id": "W132",
+    "title": "Scalable production and functionalization of TMD nanosheets for bioinspired, ultrastrong, repeatable fire warning nanopapers",
+    "authors": "Cheng-Fei Cao; Guo-Tao Zhu; Bin Yu; Wen-Yu Hu; Long Xue; Bi-Fan Guo; Wei Cai; Siqi Huo; Wei Wang; Pingan Song; Long-Cheng Tang; Hao Wang",
+    "year": 2025,
+    "journal": "Nano Today",
+    "doi": "10.1016/j.nantod.2025.102719",
+    "url": "https://doi.org/10.1016/j.nantod.2025.102719",
+    "volume": "62",
+    "pages": "102719",
+    "themes": [
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/nano-today-W164-1.png"
+  },
+  {
+    "id": "W131",
+    "title": "Synthesis of novel N-phosphorylated iminophosphoranes and their application in flame-retardant epoxy resin",
+    "authors": "Chenpeng Ji; Liping Jin; Shuhan Ye; Lei Liu; Yubo Chen; Lingxing He; Wei Wang; Kun Qian; Wenwen Guo",
+    "year": 2025,
+    "journal": "Journal of the Taiwan Institute of Chemical Engineers",
+    "doi": "10.1016/j.jtice.2025.106064",
+    "url": "https://doi.org/10.1016/j.jtice.2025.106064",
+    "volume": "171",
+    "pages": "106064",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/journal-of-the-taiwan-institute-of-chemical-engineers-W131-1.png"
+  },
+  {
+    "id": "W130",
+    "title": "Highly thermally stable MOF-based flame retardant system for fire-safe and toxicity-suppressing rigid polyurethane foam",
+    "authors": "Gang Tang; Mengfan Guan; Sujie Yang; Yuan Fang; Xiuyu Liu; Kang Dai; Wei Wang",
+    "year": 2025,
+    "journal": "Construction and Building Materials",
+    "doi": "10.1016/j.conbuildmat.2025.141382",
+    "url": "https://doi.org/10.1016/j.conbuildmat.2025.141382",
+    "volume": "477",
+    "pages": "141382",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "author_role": "Co-corresponding author",
+    "primary_author": true,
+    "image": "/assets/journal-covers/construction-and-building-materials-W130-2.png"
+  },
+  {
+    "id": "W129",
+    "title": "A novel flame-retarded PLA nonwoven material via solution blow spinning with bio-based furan flame retardant",
+    "authors": "Shun Chen; Shuhan Ye; Wei Wang; Lingxin He; Wenwen Guo",
+    "year": 2025,
+    "journal": "Polymer Degradation and Stability",
+    "doi": "10.1016/j.polymdegradstab.2025.111428",
+    "url": "https://doi.org/10.1016/j.polymdegradstab.2025.111428",
+    "volume": "240",
+    "pages": "111428",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/polymer-degradation-and-stability-W191-2.png"
+  },
+  {
+    "id": "W128",
+    "title": "Influence of a novel biobased coating decorated with UiO-66/BN in persistent flame-retardant hybrids on the fire safety and thermal degradation of epoxy resin",
+    "authors": "Zhicong Song; Juntong Zhou; Liping Jin; Yu Guan; Wei Wang; Wenwen Guo",
+    "year": 2025,
+    "journal": "Frontiers of Chemical Science and Engineering",
+    "doi": "10.1007/s11705-025-2545-2",
+    "url": "https://doi.org/10.1007/s11705-025-2545-2",
+    "volume": "19",
+    "pages": "43",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-frontiers-chemical-science-engineering-complete.jpg"
+  },
+  {
+    "id": "W127",
+    "title": "Engineered phosphorus-nitrogen-silicon segments enabling strong, tough and flame retardant polyurea for application in stretchable electrode devices",
+    "authors": "Jue Wang; Hongliang Ding; Xiaohui Jin; Lu Liu; Xiaodong Qian; Conglin Shi; Hongfei He; Wei Wang; Bin Yu",
+    "year": 2025,
+    "journal": "Chemical Engineering Journal",
+    "doi": "10.1016/j.cej.2025.162005",
+    "url": "https://doi.org/10.1016/j.cej.2025.162005",
+    "volume": "511",
+    "pages": "162005",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/chemical-engineering-journal-W181-1.png"
+  },
+  {
+    "id": "W125",
+    "title": "Flexible protective cotton fabrics based on multi-layer nano coating: Sustaining electromagnetic interference shielding capabilities in fire conditions",
+    "authors": "Jiayu Lu; Yihao Yu; Yan Zhang; Yanyan Wang; Zhangqi Han; Wei Wang; Dongming Qi",
+    "year": 2025,
+    "journal": "Progress in Organic Coatings",
+    "doi": "10.1016/j.porgcoat.2025.109131",
+    "url": "https://doi.org/10.1016/j.porgcoat.2025.109131",
+    "volume": "201",
+    "pages": "109131",
+    "themes": [
+      "protective-structures",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/progress-in-organic-coatings-W125-1.png"
+  },
+  {
+    "id": "W124",
+    "title": "Enhanced radiative cooling and flame retardancy through phosphate-linked hollow metal-organic framework spheres",
+    "authors": "Liangyuan Qi; Wei Cai; Tianyang Cui; Liang Chen; Jing Gao; Wei Wang; Mohammad Ziaur Rahman; Zhou Gui; Bin Fei; Yuan Hu; Weiyi Xing",
+    "year": 2025,
+    "journal": "Chemical Engineering Journal",
+    "doi": "10.1016/j.cej.2025.160469",
+    "url": "https://doi.org/10.1016/j.cej.2025.160469",
+    "volume": "507",
+    "pages": "160469",
+    "themes": [
+      "thermal-management",
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/chemical-engineering-journal-W181-1.png"
+  },
+  {
+    "id": "W123",
+    "title": "Sustainably sourced covalent adaptable networks derived from eugenol for flame retardant, transparent and self-healing coating applications",
+    "authors": "Yu Li; Hao-Xin Niu; Ze-Tao Xiao; Tian-Mo Yang; Hao-Ran Jiang; Wei Wang; Yuan Hu; Xin Wang",
+    "year": 2025,
+    "journal": "Progress in Organic Coatings",
+    "doi": "10.1016/j.porgcoat.2025.109072",
+    "url": "https://doi.org/10.1016/j.porgcoat.2025.109072",
+    "volume": "200",
+    "pages": "109072",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/progress-in-organic-coatings-W125-1.png"
+  },
+  {
+    "id": "W122",
+    "title": "Double-layer microencapsulated piperazine pyrophosphate towards fire-safe styrenic thermoplastic elastomer composites with remarkably improved mechanical properties",
+    "authors": "Quanqing Cui; Na Sun; Hongliang Ding; Xiaowei Mu; Wei Wang; Yan Zhang; Keqing Zhou; Liancong Wang; Bin Yu",
+    "year": 2025,
+    "journal": "Composites Part A: Applied Science and Manufacturing",
+    "doi": "10.1016/j.compositesa.2024.108688",
+    "url": "https://doi.org/10.1016/j.compositesa.2024.108688",
+    "volume": "190",
+    "pages": "108688",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/composites-part-a-applied-science-and-manufacturing-W068-0.png"
+  },
+  {
+    "id": "W121",
+    "title": "Biomimetic, mechanically strong and sensitive cyclic fire warning sensor based on high-concentration exfoliated MoS2 and poly-p-phenylene benzobisoxazole film",
+    "authors": "Haorui Duan; Chuanshen Wang; Lu Liu; Na Sun; Xiaowei Mu; Hongliang Ding; Hongfei He; Wei Wang; Wei Wu; Bin Yu",
+    "year": 2025,
+    "journal": "Composites Communications",
+    "doi": "10.1016/j.coco.2025.102309",
+    "url": "https://doi.org/10.1016/j.coco.2025.102309",
+    "volume": "55",
+    "pages": "102309",
+    "themes": [
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/composites-communications-W170-2.png"
+  },
+  {
+    "id": "W120",
+    "title": "Organic-Inorganic hybrid polymeric flame retardant coating for fire safety rigid polyurethane foam",
+    "authors": "Hongliang Ding; Chuanshen Wang; Jue Wang; Lini Wu; Na Sun; Hongfei He; Lu Liu; Wei Wang; Keqing Zhou; Wei Zhang; Bin Yu",
+    "year": 2025,
+    "journal": "Composites Part A: Applied Science and Manufacturing",
+    "doi": "10.1016/j.compositesa.2025.108789",
+    "url": "https://doi.org/10.1016/j.compositesa.2025.108789",
+    "volume": "192",
+    "pages": "108789",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/composites-part-a-applied-science-and-manufacturing-W068-0.png"
+  },
+  {
+    "id": "W119",
+    "title": "Rigid Polyurethane Foam Derived from Renewable Sources: Research Progress, Property Enhancement, and Future Prospects",
+    "authors": "Yao Yuan; Qinhe Guo; Lulu Xu; Wei Wang",
+    "year": 2025,
+    "journal": "Molecules",
+    "doi": "10.3390/molecules30030678",
+    "url": "https://doi.org/10.3390/molecules30030678",
+    "volume": "30",
+    "pages": "678",
+    "themes": [],
+    "image": "/assets/journal-covers/extra-molecules.png"
+  },
+  {
+    "id": "W118",
+    "title": "Inspired by the tessellation of strawberry achenes on skin: Preparation of ZIF-67 derived multifunctional flame retardant through supramolecular assembly of cobalt alginate biopolymer in melamine-containing polyphosphazene skeleton",
+    "authors": "Qianlong Li; Yu Lei; Xue Bi; Yina Liu; Ye-Tang Pan; Wei Wang; Wenchao Zhang; Congling Shi; Guan Heng Yeoh",
+    "year": 2025,
+    "journal": "Chemical Engineering Journal",
+    "doi": "10.1016/j.cej.2025.160242",
+    "url": "https://doi.org/10.1016/j.cej.2025.160242",
+    "volume": "506",
+    "pages": "160242",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/chemical-engineering-journal-W181-1.png"
+  },
+  {
+    "id": "W117",
+    "title": "A controllable and fast carbonization strategy under air conditions and its application in electromagnetic interference (EMI) shielding",
+    "authors": "Yan Zhang; Jiayu Lu; Jin Yu; Wei Wang; Shimin Zhai; Yihao Yu; Dongming Qi",
+    "year": 2025,
+    "journal": "Composites Part A: Applied Science and Manufacturing",
+    "doi": "10.1016/j.compositesa.2025.108764",
+    "url": "https://doi.org/10.1016/j.compositesa.2025.108764",
+    "volume": "192",
+    "pages": "108764",
+    "themes": [
+      "protective-structures"
+    ],
+    "image": "/assets/journal-covers/composites-part-a-applied-science-and-manufacturing-W068-0.png"
+  },
+  {
+    "id": "W116",
+    "title": "Recent Advances in MXene-Based Flame Retardants for Enhancing Fire Safety in Thermoplastic Resins",
+    "authors": "Qinhe Guo; Yao Yuan; Lulu Xu; Wei Wang",
+    "year": 2025,
+    "journal": "Fire",
+    "doi": "10.3390/fire8020073",
+    "url": "https://doi.org/10.3390/fire8020073",
+    "volume": "8",
+    "pages": "73",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-fire.png"
+  },
+  {
+    "id": "W115",
+    "title": "Smart retardant materials for fire alarm systems: integrating flame retardancy and early detection technologies",
+    "authors": "Yu Lei; Qing Nian Chan; Lulu Xu; Eric Wai Ming Lee; Yuan Xien Lee; Vipul Agarwal; Guan Heng Yeoh; Wei Wang",
+    "year": 2025,
+    "journal": "Advanced Composites and Hybrid Materials",
+    "doi": "10.1007/s42114-024-01152-6",
+    "url": "https://doi.org/10.1007/s42114-024-01152-6",
+    "volume": "8",
+    "pages": "112",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/advanced-composites-and-hybrid-materials.webp"
+  },
+  {
+    "id": "W114",
+    "title": "Synergistic fire safety and electromagnetic interference shielding performances of cotton fabrics with dual doping PEDOT:PSS coatings",
+    "authors": "Jiangxiao Song; Yihao Yu; Yan Zhang; Jiahui Wu; Wei Wang; Dongming Qi",
+    "year": 2025,
+    "journal": "Cellulose",
+    "doi": "10.1007/s10570-025-06407-z",
+    "url": "https://doi.org/10.1007/s10570-025-06407-z",
+    "volume": "32",
+    "pages": "2695-2715",
+    "themes": [
+      "fire-safe-composites",
+      "protective-structures",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/cellulose.webp"
+  },
+  {
+    "id": "W113",
+    "title": "Phosphorylated chitosan@MXene biomass-based coating with high flame retardancy and environmental friendliness for cotton fabric",
+    "authors": "Lei Liu; Lei He; Liping Jin; Haojie Shi; Shuhan Ye; Lingxin He; Wei Wang; Wenwen Guo",
+    "year": 2025,
+    "journal": "International Journal of Biological Macromolecules",
+    "doi": "10.1016/j.ijbiomac.2025.140344",
+    "url": "https://doi.org/10.1016/j.ijbiomac.2025.140344",
+    "volume": "301",
+    "pages": "140344",
+    "themes": [
+      "fire-safe-composites",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/international-journal-of-biological-macromolecules-W190-1.png"
+  },
+  {
+    "id": "W112",
+    "title": "Recent Advancements of Bio-Derived Flame Retardants for Polymeric Materials",
+    "authors": "Min Chen; Qinhe Guo; Yao Yuan; Ao Li; Bo Lin; Yi Xiao; Lulu Xu; Wei Wang",
+    "year": 2025,
+    "journal": "Polymers",
+    "doi": "10.3390/polym17020249",
+    "url": "https://doi.org/10.3390/polym17020249",
+    "volume": "17",
+    "pages": "249",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-polymers.png"
+  },
+  {
+    "id": "W111",
+    "title": "Exploring graphdiyne - Dynamic characterisation of the surface oxidation mechanisms via ReaxFF-MD and experiments",
+    "authors": "Q. Chen; I.M. De Cachinho Cordeiro; W. Yang; A.C.Y. Yuen; T.B.Y. Chen; W. Wang; W. Yang; G.H. Yeoh; R.K.K. Yuen",
+    "year": 2025,
+    "journal": "Carbon",
+    "doi": "10.1016/j.carbon.2024.119793",
+    "url": "https://doi.org/10.1016/j.carbon.2024.119793",
+    "volume": "232",
+    "pages": "119793",
+    "themes": [],
+    "image": "/assets/journal-covers/carbon-public-version.png"
+  },
+  {
+    "id": "W110",
+    "title": "Unlocking epoxy thermal management capability via hierarchical Ce-MOF@MoS2 hybrid constructed by in-situ growth method",
+    "authors": "Xiaoli Yu; Pengfei Sun; Pengfei Jia; Wei Wang; Kang Dai; Bibo Wang; Lei Song",
+    "year": 2025,
+    "journal": "Journal of Colloid and Interface Science",
+    "doi": "10.1016/j.jcis.2024.09.176",
+    "url": "https://doi.org/10.1016/j.jcis.2024.09.176",
+    "volume": "678",
+    "pages": "959-967",
+    "themes": [
+      "thermal-management"
+    ],
+    "image": "/assets/journal-covers/journal-of-colloid-and-interface-science-W057-2.png"
+  },
+  {
+    "id": "W109",
+    "title": "Fatty Alcohol‐Based “Smart Windows” Driven by Photo‐Thermal Materials Toward Thermal Management in Hot Regions and High Fire Safety",
+    "authors": "Wei Cai; Tianyang Cui; Liangyuan Qi; Junling Wang; Wei Wang; Chengfei Cao; Shuo Shi; Xin Hu; Mohammad Ziaur Rahman; Weiyi Xing; De‐Yi Wang; Bin Fei",
+    "year": 2025,
+    "journal": "Small",
+    "doi": "10.1002/smll.202501540",
+    "url": "https://doi.org/10.1002/smll.202501540",
+    "volume": "21",
+    "pages": "2501540",
+    "themes": [
+      "thermal-management",
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-small.png"
+  },
+  {
+    "id": "W108",
+    "title": "Recent Advances in Flame-Retardant Flexible Polyurethane Foams",
+    "authors": "Min Chen; Yao Yuan; Wei Wang; Lulu Xu",
+    "year": 2025,
+    "journal": "Fire",
+    "doi": "10.3390/fire8030090",
+    "url": "https://doi.org/10.3390/fire8030090",
+    "volume": "8",
+    "pages": "90",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-fire.png"
+  },
+  {
+    "id": "W107",
+    "title": "Outstanding flame retardancy and combustion characteristics of thermoplastic elastomer with ultra-low addition of piperazine pyrophosphate/aluminum hypophosphite",
+    "authors": "Quanqing Cui; Na Sun; Hongliang Ding; Xiaowei Mu; Hongfei He; Chuanshen Wang; Wei Wang; Chao Ding; Wei Zhang; Bin Yu",
+    "year": 2025,
+    "journal": "Composites Communications",
+    "doi": "10.1016/j.coco.2024.102195",
+    "url": "https://doi.org/10.1016/j.coco.2024.102195",
+    "volume": "53",
+    "pages": "102195",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/composites-communications-W170-2.png"
+  },
+  {
+    "id": "W106",
+    "title": "Surface modification of MOFs towards flame retardant polymer composites",
+    "authors": "Xiuhong Sun; Ye-Tang Pan; Wei Wang; Rongjie Yang",
+    "year": 2025,
+    "journal": "RSC Applied Interfaces",
+    "doi": "10.1039/d4lf00252k",
+    "url": "https://doi.org/10.1039/d4lf00252k",
+    "volume": "2",
+    "pages": "14-24",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-rsc-applied-interfaces.jpg"
+  },
+  {
+    "id": "W105",
+    "title": "Flame-retardant coatings for wooden structures",
+    "authors": "Yuan Xien Lee; Wei Wang; Yu Lei; Lulu Xu; Vipul Agarwal; Cheng Wang; Guan Heng Yeoh",
+    "year": 2025,
+    "journal": "Progress in Organic Coatings",
+    "doi": "10.1016/j.porgcoat.2024.108903",
+    "url": "https://doi.org/10.1016/j.porgcoat.2024.108903",
+    "volume": "198",
+    "pages": "108903",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/progress-in-organic-coatings-W125-1.png"
+  },
+  {
+    "id": "W104",
+    "title": "MXene-coated polystyrene microparticles for amorphous photonic crystal coating with enhanced color saturation, flame retardancy, and electromagnetic interference shielding",
+    "authors": "Mingjie Guo; Ying Pan; Wei Wang; Dong Zhang; Hongting Zhao; Ting Lü; Yan Zhang",
+    "year": 2025,
+    "journal": "Progress in Organic Coatings",
+    "doi": "10.1016/j.porgcoat.2024.108902",
+    "url": "https://doi.org/10.1016/j.porgcoat.2024.108902",
+    "volume": "198",
+    "pages": "108902",
+    "themes": [
+      "fire-safe-composites",
+      "protective-structures"
+    ],
+    "image": "/assets/journal-covers/progress-in-organic-coatings-W125-1.png"
+  },
+  {
+    "id": "W103",
+    "title": "A green synthesis strategy for liquid microcapsule flame-retardant polyurethane foam: Lowering consumer health risks from flame retardant inhalation and ensuring long-lasting fire safety",
+    "authors": "Songyang Yu; Wei Wang; Fuhao Yu; Bibo Wang; Lei Song; Yuan Hu",
+    "year": 2024,
+    "journal": "Journal of Cleaner Production",
+    "doi": "10.1016/j.jclepro.2024.144272",
+    "url": "https://doi.org/10.1016/j.jclepro.2024.144272",
+    "volume": "483",
+    "pages": "144272",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/journal-of-cleaner-production-W103-1.png"
+  },
+  {
+    "id": "W102",
+    "title": "Phosphorylated octa-aminopropyl POSS grafting on proanthocyanidin interface decorated 2D MXene for enhanced flame-retardancy of cotton fabric nanocomposites",
+    "authors": "Liping Jin; Chenpeng Ji; Shun Chen; Kun Qian; Lingxin He; Wei Wang; Wenwen Guo",
+    "year": 2024,
+    "journal": "International Journal of Biological Macromolecules",
+    "doi": "10.1016/j.ijbiomac.2024.137278",
+    "url": "https://doi.org/10.1016/j.ijbiomac.2024.137278",
+    "volume": "283",
+    "pages": "137278",
+    "themes": [
+      "fire-safe-composites",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/international-journal-of-biological-macromolecules-W190-1.png"
+  },
+  {
+    "id": "W101",
+    "title": "Covalent metal–organic porous polymer on ZIF-67 realize anti-UV and highly stressed flame retardant epoxy composites",
+    "authors": "Jin Cao; Shangxian Chen; Zhengde Han; Ye-Tang Pan; Yichao Lin; Wei Wang; Rongjie Yang",
+    "year": 2024,
+    "journal": "Chemical Engineering Journal",
+    "doi": "10.1016/j.cej.2024.157758",
+    "url": "https://doi.org/10.1016/j.cej.2024.157758",
+    "volume": "501",
+    "pages": "157758",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/chemical-engineering-journal-W181-1.png"
+  },
+  {
+    "id": "W100",
+    "title": "“Rigid-Flexible” structured polyimine/graphite felt composites with excellent fire Resistance, electromagnetic shielding and recyclability",
+    "authors": "Jue Wang; Hongliang Ding; Zhuyun Bi; Lu Liu; Na Sun; Wei Wang; Chuanshen Wang; Hongfei He; Keqing Zhou; Bin Yu",
+    "year": 2024,
+    "journal": "Chemical Engineering Journal",
+    "doi": "10.1016/j.cej.2024.157610",
+    "url": "https://doi.org/10.1016/j.cej.2024.157610",
+    "volume": "501",
+    "pages": "157610",
+    "themes": [
+      "fire-safe-composites",
+      "protective-structures"
+    ],
+    "image": "/assets/journal-covers/chemical-engineering-journal-W181-1.png"
+  },
+  {
+    "id": "W099",
+    "title": "Co Hybrids modified piperazine pyrophosphate towards efficient flame retardancy, smoke suppression, and high mechanical properties of styrenic thermoplastic elastomer",
+    "authors": "Quanqing Cui; Hongliang Ding; Na Sun; Xiaowei Mu; Wei Wang; Yan Zhang; Keqing Zhou; Wei Yang; Bin Yu",
+    "year": 2024,
+    "journal": "Polymer Degradation and Stability",
+    "doi": "10.1016/j.polymdegradstab.2024.111041",
+    "url": "https://doi.org/10.1016/j.polymdegradstab.2024.111041",
+    "volume": "230",
+    "pages": "111041",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/polymer-degradation-and-stability-W191-2.png"
+  },
+  {
+    "id": "W098",
+    "title": "Enhancing Fire Safety and Softness: Efficacy of Ethanolamine Polyphosphate as a Fire Retardant for Textiles",
+    "authors": "Hongyang Li; Cheng Wang; Hengqi Chen; Susan Oliver; Wei Wang; Lei Lei",
+    "year": 2024,
+    "journal": "Macromolecular Rapid Communications",
+    "doi": "10.1002/marc.202400536",
+    "url": "https://doi.org/10.1002/marc.202400536",
+    "volume": "45",
+    "pages": "2400536",
+    "themes": [
+      "fire-safe-composites",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/extra-macromolecular-rapid-communications.png"
+  },
+  {
+    "id": "W097",
+    "title": "Interface reconstruction of MXene-Ti3C2 doped CeO2 nanorods for remarked photocatalytic ammonia synthesis",
+    "authors": "Huaiwei Zhang; Liang Bao; Ying Pan; Jia Du; Wei Wang",
+    "year": 2024,
+    "journal": "Journal of Colloid and Interface Science",
+    "doi": "10.1016/j.jcis.2024.07.008",
+    "url": "https://doi.org/10.1016/j.jcis.2024.07.008",
+    "volume": "675",
+    "pages": "130-138",
+    "themes": [],
+    "image": "/assets/journal-covers/journal-of-colloid-and-interface-science-W057-2.png"
+  },
+  {
+    "id": "W096",
+    "title": "Colored Radiative Cooling and Flame‐Retardant Polyurethane‐Based Coatings: Selective Absorption/Reflection in Solar Waveband",
+    "authors": "Wei Cai; Junling Wang; Wei Wang; Sicheng Li; Mohammad Ziaur Rahman; Benjamin Tawiah; Yang Ming; Xia Zhou; Weiyi Xing; Yuan Hu; Jixin Zhu; Bin Fei",
+    "year": 2024,
+    "journal": "Small",
+    "doi": "10.1002/smll.202402349",
+    "url": "https://doi.org/10.1002/smll.202402349",
+    "volume": "20",
+    "pages": "2402349",
+    "themes": [
+      "thermal-management",
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-small.png"
+  },
+  {
+    "id": "W095",
+    "title": "Novel phosphorous-containing epoxy thermosets with improved anti-flammability, smoke suppression, and dielectric properties",
+    "authors": "Ze-Tao Xiao; Guan-Long Wu; Wei Wang; Ping Zhang; Yuan Hu; Xin Wang",
+    "year": 2024,
+    "journal": "Polymer Degradation and Stability",
+    "doi": "10.1016/j.polymdegradstab.2024.110954",
+    "url": "https://doi.org/10.1016/j.polymdegradstab.2024.110954",
+    "volume": "229",
+    "pages": "110954",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/polymer-degradation-and-stability-W191-2.png"
+  },
+  {
+    "id": "W094",
+    "title": "A facile bioinspired fire coating hybridising carbon-derived peanut shells and black phosphorous for timber structures: Experimental and numerical characterisation",
+    "authors": "Jing Liang; Timothy Bo Yuan Chen; Anthony Chun Yin Yuen; Wenhao Yang; Ivan Miguel De Cachinho Cordeiro; Qian Chen; Shuilai Qiu; Wei Wang; Cheng Wang; Yuan Hu; Guan Heng Yeoh",
+    "year": 2024,
+    "journal": "Progress in Organic Coatings",
+    "doi": "10.1016/j.porgcoat.2024.108687",
+    "url": "https://doi.org/10.1016/j.porgcoat.2024.108687",
+    "volume": "195",
+    "pages": "108687",
+    "themes": [],
+    "image": "/assets/journal-covers/progress-in-organic-coatings-W125-1.png"
+  },
+  {
+    "id": "W093",
+    "title": "Carbon‐based Flame Retardants for Polymers: A Bottom‐up Review",
+    "authors": "Guan Heng Yeoh; Ivan Miguel De Cachinho Cordeiro; Wei Wang; Cheng Wang; Anthony Chun Yin Yuen; Timothy Bo Yuan Chen; Juan Baena Vargas; Guangzhao Mao; Ulf Garbe; Hui Tong Chua",
+    "year": 2024,
+    "journal": "Advanced Materials",
+    "doi": "10.1002/adma.202403835",
+    "url": "https://doi.org/10.1002/adma.202403835",
+    "volume": "36",
+    "pages": "2403835",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-advanced-materials.png"
+  },
+  {
+    "id": "W092",
+    "title": "Robust and Density Tunable Kevlar/Hexagonal Boron Nitride Microribbon Aerogels with Excellent Thermal, Mechanical, and Oil-Absorption Properties",
+    "authors": "Hu Long; Yaming Hu; Jiaxin Liu; Wei Wang; Guanglan Liao; Anthony Chun Yin Yuen; Guan-Heng Yeoh; Yuan Hu; Tielin Shi",
+    "year": 2024,
+    "journal": "ACS Applied Materials & Interfaces",
+    "doi": "10.1021/acsami.4c09506",
+    "url": "https://doi.org/10.1021/acsami.4c09506",
+    "volume": "16",
+    "pages": "51421-51432",
+    "themes": [
+      "protective-structures"
+    ],
+    "image": "/assets/journal-covers/extra-acs-applied-materials-interfaces-W092-1.png"
+  },
+  {
+    "id": "W091",
+    "title": "Construction of a continuous flame-retardant network made from wood in epoxy resin",
+    "authors": "Ying Pan; Wei Wang; Dong Zhang; Ting Lü; Hongting Zhao",
+    "year": 2024,
+    "journal": "Cellulose",
+    "doi": "10.1007/s10570-024-06069-3",
+    "url": "https://doi.org/10.1007/s10570-024-06069-3",
+    "volume": "31",
+    "pages": "8311-8319",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/cellulose.webp"
+  },
+  {
+    "id": "W090",
+    "title": "Natural Flame Retardant Minerals for Advanced Epoxy Composites",
+    "authors": "Yu Lei; Xueyi Zhao; Lulu Xu; Hongyang Li; Jing Liang; Guan Heng Yeoh; Wei Wang",
+    "year": 2024,
+    "journal": "Fire",
+    "doi": "10.3390/fire7090308",
+    "url": "https://doi.org/10.3390/fire7090308",
+    "volume": "7",
+    "pages": "308",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-fire.png"
+  },
+  {
+    "id": "W089",
+    "title": "MXene Based Flame Retardant and Electrically Conductive Polymer Coatings",
+    "authors": "Bo Lin; Ao Li; Ivan Miguel De Cachinho Cordeiro; Ming Jia; Yuan Xien Lee; Anthony Chun Yin Yuen; Cheng Wang; Wei Wang; Guan Heng Yeoh",
+    "year": 2024,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16172461",
+    "url": "https://doi.org/10.3390/polym16172461",
+    "volume": "16",
+    "pages": "2461",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-polymers.png"
+  },
+  {
+    "id": "W088",
+    "title": "Recent Progress in Thermoplastic Polyurethane/MXene Nanocomposites: Preparation, Flame-Retardant Properties and Applications",
+    "authors": "Yao Yuan; Weiliang Lin; Lulu Xu; Wei Wang",
+    "year": 2024,
+    "journal": "Molecules",
+    "doi": "10.3390/molecules29163880",
+    "url": "https://doi.org/10.3390/molecules29163880",
+    "volume": "29",
+    "pages": "3880",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-molecules.png"
+  },
+  {
+    "id": "W087",
+    "title": "Tri-phase flame retardant system towards advanced energy-saving building materials with highly efficient fire and smoke toxicity reductions",
+    "authors": "Yao Yuan; Lulu Xu; Wei Wang",
+    "year": 2024,
+    "journal": "Construction and Building Materials",
+    "doi": "10.1016/j.conbuildmat.2024.136719",
+    "url": "https://doi.org/10.1016/j.conbuildmat.2024.136719",
+    "volume": "433",
+    "pages": "136719",
+    "themes": [
+      "thermal-management",
+      "fire-safe-composites"
+    ],
+    "author_role": "Corresponding author",
+    "primary_author": true,
+    "image": "/assets/journal-covers/construction-and-building-materials-W130-2.png"
+  },
+  {
+    "id": "W086",
+    "title": "Unlocking anti-aging potential: Flame retardants thrive without added antioxidants",
+    "authors": "Pengfei Sun; Pengfei Jia; Wei Wang; Ningning Hong; Fuhao Yu; Dayong Chen; Bibo Wang; Zhou Gui; Yuan Hu",
+    "year": 2024,
+    "journal": "Composites Part B: Engineering",
+    "doi": "10.1016/j.compositesb.2024.111450",
+    "url": "https://doi.org/10.1016/j.compositesb.2024.111450",
+    "volume": "279",
+    "pages": "111450",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/composites-part-b-engineering-W051-0.png"
+  },
+  {
+    "id": "W085",
+    "title": "A Novel Movable Mannequin Platform for Evaluating and Optimising mmWave Radar Sensor for Indoor Crowd Evacuation Monitoring Applications",
+    "authors": "Qing Nian Chan; Dongli Gao; Yu Zhou; Sensen Xing; Guanxiong Zhai; Cheng Wang; Wei Wang; Shen Hin Lim; Eric Wai Ming Lee; Guan Heng Yeoh",
+    "year": 2024,
+    "journal": "Fire",
+    "doi": "10.3390/fire7060181",
+    "url": "https://doi.org/10.3390/fire7060181",
+    "volume": "7",
+    "pages": "181",
+    "themes": [
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/extra-fire.png"
+  },
+  {
+    "id": "W084",
+    "title": "Construction of efficient and environmentally friendly bio-based flame retardant cotton fabric through layer by layer self-assembly of alkylammonium functional silsesquioxane/phosphorylated sodium alginate",
+    "authors": "Haojie Shi; Xinyao Zhang; Shun Chen; Lingxin He; Wei Wang; Siqing Shao; Guofang Qiu; Wenwen Guo",
+    "year": 2024,
+    "journal": "International Journal of Biological Macromolecules",
+    "doi": "10.1016/j.ijbiomac.2024.132345",
+    "url": "https://doi.org/10.1016/j.ijbiomac.2024.132345",
+    "volume": "271",
+    "pages": "132345",
+    "themes": [
+      "fire-safe-composites",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/international-journal-of-biological-macromolecules-W190-1.png"
+  },
+  {
+    "id": "W083",
+    "title": "The influence of well-dispersed mesoporous hydroxystannate ferrate anchored magnesium hydroxide hybrids on enhancing interfacial compatibility and fire safety of EVA/EPDM composites",
+    "authors": "Yao Yuan; Bin Yu; Libi Fu; Haibo Sheng; Wei Wang",
+    "year": 2024,
+    "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+    "doi": "10.1016/j.colsurfa.2024.133713",
+    "url": "https://doi.org/10.1016/j.colsurfa.2024.133713",
+    "volume": "689",
+    "pages": "133713",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/colloids-and-surfaces-a-physicochemical-and-engineering-aspects-W083-1.png"
+  },
+  {
+    "id": "W082",
+    "title": "Impact of the Local Dynamics on Exit Choice Behaviour in Evacuation Model",
+    "authors": "Sensen Xing; Cheng Wang; Dongli Gao; Wei Wang; Anthony Chun Yin Yuen; Eric Wai Ming Lee; Guan Heng Yeoh; Qing Nian Chan",
+    "year": 2024,
+    "journal": "Fire",
+    "doi": "10.3390/fire7050167",
+    "url": "https://doi.org/10.3390/fire7050167",
+    "volume": "7",
+    "pages": "167",
+    "themes": [],
+    "image": "/assets/journal-covers/extra-fire.png"
+  },
+  {
+    "id": "W081",
+    "title": "Recent Progress in Two-Dimensional Nanomaterials for Flame Retardance and Fire-Warning Applications",
+    "authors": "Weiliang Lin; Yao Yuan; Lulu Xu; Wei Wang",
+    "year": 2024,
+    "journal": "Molecules",
+    "doi": "10.3390/molecules29081858",
+    "url": "https://doi.org/10.3390/molecules29081858",
+    "volume": "29",
+    "pages": "1858",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-molecules.png"
+  },
+  {
+    "id": "W080",
+    "title": "Recent advances in separator design for lithium metal batteries without dendrite formation: Implications for electric vehicles",
+    "authors": "Yu Lei; Lulu Xu; Qing Nian Chan; Ao Li; Anthony Chun Yin Yuen; Yao Yuan; Guan Heng Yeoh; Wei Wang",
+    "year": 2024,
+    "journal": "eTransportation",
+    "doi": "10.1016/j.etran.2024.100330",
+    "url": "https://doi.org/10.1016/j.etran.2024.100330",
+    "volume": "20",
+    "pages": "100330",
+    "themes": [
+      "battery-safety"
+    ],
+    "author_role": "Co-corresponding author",
+    "primary_author": true,
+    "image": "/assets/journal-covers/etransportation-W080-0.png"
+  },
+  {
+    "id": "W079",
+    "title": "Thermally managed and fireproof composite aerogels for safer and year-round energy saving",
+    "authors": "Wei Cai; Zhaoxin Li; Heng Xie; Wei Wang; Tianyang Cui; Bicheng Lin; Liangyuan Qi; Xin Hu; Yu Du; Yang Ming; Shuo Shi; Daming Chen; Bin Fei; Weiyi Xing; Yuan Hu",
+    "year": 2024,
+    "journal": "Chemical Engineering Journal",
+    "doi": "10.1016/j.cej.2024.149006",
+    "url": "https://doi.org/10.1016/j.cej.2024.149006",
+    "volume": "483",
+    "pages": "149006",
+    "themes": [
+      "thermal-management",
+      "protective-structures"
+    ],
+    "image": "/assets/journal-covers/chemical-engineering-journal-W181-1.png"
+  },
+  {
+    "id": "W078",
+    "title": "Flame-retardant epoxy thermosets derived from renewable resources: Research development and future perspectives",
+    "authors": "Yao Yuan; Weiliang Lin; Yi Xiao; Bin Yu; Wei Wang",
+    "year": 2024,
+    "journal": "Journal of Materials Science & Technology",
+    "doi": "10.1016/j.jmst.2024.02.006",
+    "url": "https://doi.org/10.1016/j.jmst.2024.02.006",
+    "volume": "195",
+    "pages": "29-40",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/journal-of-materials-science-technology-W078-1.png"
+  },
+  {
+    "id": "W077",
+    "title": "Novel rich aromatic and phosphorus-containing compound cured epoxy resins toward outstanding comprehensive performances",
+    "authors": "Zetao Xiao; Haoxin Niu; Wei Wang; Kangsi Zhou; Yuan Hu; Xin Wang",
+    "year": 2024,
+    "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+    "doi": "10.1016/j.colsurfa.2023.133008",
+    "url": "https://doi.org/10.1016/j.colsurfa.2023.133008",
+    "volume": "683",
+    "pages": "133008",
+    "themes": [],
+    "image": "/assets/journal-covers/colloids-and-surfaces-a-physicochemical-and-engineering-aspects-W083-1.png"
+  },
+  {
+    "id": "W076",
+    "title": "Effect of nitrogen and phosphorus co-doped carbon dots containing layer-by-layer self-assembled coating on UV resistance and thermal stability of cotton fabric",
+    "authors": "Ying Pan; Wei Wang; Qianyong Liang; Jia Du; Dong Zhang; Hongting Zhao; Ting Lü; Yan Zhang",
+    "year": 2024,
+    "journal": "Cellulose",
+    "doi": "10.1007/s10570-023-05715-6",
+    "url": "https://doi.org/10.1007/s10570-023-05715-6",
+    "volume": "31",
+    "pages": "1957-1966",
+    "themes": [
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/cellulose.webp"
+  },
+  {
+    "id": "W075",
+    "title": "Characterising flame-retardant mechanism of phosphorous-containing intumescent coating on polyethylene via ReaxFF MD simulations",
+    "authors": "I.M. De Cachinho Cordeiro; T.B.Y. Chen; A.C.Y. Yuen; Q. Chen; W. Yang; C. Wang; W. Wang; Q.N. Chan; J. Zhang; W. Yang; G.H. Yeoh",
+    "year": 2024,
+    "journal": "Chemical Engineering Journal",
+    "doi": "10.1016/j.cej.2023.148169",
+    "url": "https://doi.org/10.1016/j.cej.2023.148169",
+    "volume": "480",
+    "pages": "148169",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/chemical-engineering-journal-W181-1.png"
+  },
+  {
+    "id": "W074",
+    "title": "Novel Flame-Actuated Soft Actuator Based on a Multilayer Liquid Crystal Elastomer/Hydrogel Composite",
+    "authors": "Zhenhua He; Saihua Jiang; Ziwei Liang; Lingzhi Wu; Wei Wang; Yanbei Hou; Shuidong Zhang; Nour F. Attia",
+    "year": 2024,
+    "journal": "Industrial & Engineering Chemistry Research",
+    "doi": "10.1021/acs.iecr.3c03760",
+    "url": "https://doi.org/10.1021/acs.iecr.3c03760",
+    "volume": "63",
+    "pages": "1432-1441",
+    "themes": [],
+    "image": "/assets/journal-covers/industrial-engineering-chemistry-research-W074-1.png"
+  },
+  {
+    "id": "W073",
+    "title": "Restriction of Ce-MOF growth within ZSM zeolite for robust three-proofing thermoplastic polyurethane",
+    "authors": "Xue Bi; Kunpeng Song; Qianlong Li; Tao Lin; Ye-Tang Pan; Wei Wang; Jiyu He; Rongjie Yang",
+    "year": 2024,
+    "journal": "Journal of Materials Chemistry A",
+    "doi": "10.1039/d4ta05441e",
+    "url": "https://doi.org/10.1039/d4ta05441e",
+    "volume": "12",
+    "pages": "32030-32044",
+    "themes": [],
+    "image": "/assets/journal-covers/extra-journal-of-materials-chemistry-a.jpg"
+  },
+  {
+    "id": "W072",
+    "title": "Biomimetic, highly adhesive, supramolecular nano-coatings for fire-safe polymeric foams",
+    "authors": "Ju Huang; Leting Yang; Wei Wang; Bin Yu; Chengfei Cao; Zhuyun Bi; Jue Wang; Jian Shen; Lei Song",
+    "year": 2024,
+    "journal": "Progress in Organic Coatings",
+    "doi": "10.1016/j.porgcoat.2023.107995",
+    "url": "https://doi.org/10.1016/j.porgcoat.2023.107995",
+    "volume": "186",
+    "pages": "107995",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/progress-in-organic-coatings-W125-1.png"
+  },
+  {
+    "id": "W071",
+    "title": "A fine discrete floor field cellular automaton model with natural step length for pedestrian dynamics",
+    "authors": "Sensen Xing; Cheng Wang; Wei Wang; Rui Feng Cao; Anthony Chun Yin Yuen; Eric Wai Ming Lee; Guan Heng Yeoh; Qing Nian Chan",
+    "year": 2024,
+    "journal": "Simulation Modelling Practice and Theory",
+    "doi": "10.1016/j.simpat.2023.102841",
+    "url": "https://doi.org/10.1016/j.simpat.2023.102841",
+    "volume": "130",
+    "pages": "102841",
+    "themes": [],
+    "image": "/assets/journal-covers/simulation-modelling-practice-and-theory-W071-0.png"
+  },
+  {
+    "id": "W070",
+    "title": "Fully bio-based and intrinsically flame retardant unsaturated polyester cross-linked with isosorbide-based diluents",
+    "authors": "Fukai Chu; Wei Wang; Yifan Zhou; Zhoumei Xu; Bin Zou; Xin Jiang; Yandong Hu; Weizhao Hu",
+    "year": 2023,
+    "journal": "Chemosphere",
+    "doi": "10.1016/j.chemosphere.2023.140371",
+    "url": "https://doi.org/10.1016/j.chemosphere.2023.140371",
+    "volume": "344",
+    "pages": "140371",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/chemosphere-W070-1.png"
+  },
+  {
+    "id": "W069",
+    "title": "Advancements in Flame-Retardant Systems for Rigid Polyurethane Foam",
+    "authors": "Yao Yuan; Weiliang Lin; Yi Xiao; Bin Yu; Wei Wang",
+    "year": 2023,
+    "journal": "Molecules",
+    "doi": "10.3390/molecules28227549",
+    "url": "https://doi.org/10.3390/molecules28227549",
+    "volume": "28",
+    "pages": "7549",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-molecules.png"
+  },
+  {
+    "id": "W068",
+    "title": "3D MXene frameworks for flame retardant hydrophobic polymer nanocomposites",
+    "authors": "Wei Wang; Cheng Wang; Anthony Chun Yin Yuen; Ao Li; Bo Lin; Yao Yuan; Chao Ma; Yu Han; Guan Heng Yeoh",
+    "year": 2023,
+    "journal": "Composites Part A: Applied Science and Manufacturing",
+    "doi": "10.1016/j.compositesa.2023.107673",
+    "url": "https://doi.org/10.1016/j.compositesa.2023.107673",
+    "volume": "173",
+    "pages": "107673",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "author_role": "First and co-corresponding author",
+    "primary_author": true,
+    "image": "/assets/journal-covers/composites-part-a-applied-science-and-manufacturing-W068-0.png"
+  },
+  {
+    "id": "W067",
+    "title": "Optimisation of Additives to Maximise Performance of Expandable Graphite-Based Intumescent-Flame-Retardant Polyurethane Composites",
+    "authors": "Imrana I. Kabir; Juan Carlos Baena; Wei Wang; Cheng Wang; Susan Oliver; Muhammad Tariq Nazir; Arslan Khalid; Yifeng Fu; Anthony Chun Yin Yuen; Guan Heng Yeoh",
+    "year": 2023,
+    "journal": "Molecules",
+    "doi": "10.3390/molecules28135100",
+    "url": "https://doi.org/10.3390/molecules28135100",
+    "volume": "28",
+    "pages": "5100",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-molecules.png"
+  },
+  {
+    "id": "W066",
+    "title": "Solid Polymer Electrolytes for Zinc-Ion Batteries",
+    "authors": "Ivan De Cachinho Cordeiro; Ao Li; Bo Lin; Daphne Ma; Lulu Xu; Alice Eh; Wei Wang",
+    "year": 2023,
+    "journal": "Batteries",
+    "doi": "10.3390/batteries9070343",
+    "url": "https://doi.org/10.3390/batteries9070343",
+    "volume": "9",
+    "pages": "343",
+    "themes": [
+      "battery-safety"
+    ],
+    "image": "/assets/journal-covers/batteries.png"
+  },
+  {
+    "id": "W065",
+    "title": "Numerical Investigation of Transonic Flow-Induced Spontaneous Condensation in Micro-Ejector Nozzles",
+    "authors": "Yu Han; Xiaodong Wang; Wei Wang; Yuan Xien Lee; Ao Li",
+    "year": 2023,
+    "journal": "Micromachines",
+    "doi": "10.3390/mi14061260",
+    "url": "https://doi.org/10.3390/mi14061260",
+    "volume": "14",
+    "pages": "1260",
+    "themes": [],
+    "image": "/assets/journal-covers/extra-micromachines.png"
+  },
+  {
+    "id": "W064",
+    "title": "Fire-safe epoxy composite realized by MXenes based nanostructure with vertically arrayed MOFs derived from interfacial assembly strategy",
+    "authors": "Shui Yu; Chao Cheng; Keji Li; Junling Wang; Zhirong Wang; Haobo Zhou; Wei Wang; Yan Zhang; Yan Quan",
+    "year": 2023,
+    "journal": "Chemical Engineering Journal",
+    "doi": "10.1016/j.cej.2023.143039",
+    "url": "https://doi.org/10.1016/j.cej.2023.143039",
+    "volume": "465",
+    "pages": "143039",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/chemical-engineering-journal-W181-1.png"
+  },
+  {
+    "id": "W063",
+    "title": "Non‐Flammable Electrolyte with Lithium Nitrate as the Only Lithium Salt for Boosting Ultra‐Stable Cycling and Fire‐Safety Lithium Metal Batteries",
+    "authors": "Can Liao; Longfei Han; Wei Wang; Wanqing Li; Xiaowei Mu; Yongchun Kan; Jixin Zhu; Zhou Gui; Xiangming He; Lei Song; Yuan Hu",
+    "year": 2023,
+    "journal": "Advanced Functional Materials",
+    "doi": "10.1002/adfm.202212605",
+    "url": "https://doi.org/10.1002/adfm.202212605",
+    "volume": "33",
+    "pages": "2212605",
+    "themes": [
+      "battery-safety",
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-advanced-functional-materials.png"
+  },
+  {
+    "id": "W062",
+    "title": "Machine learning assisted advanced battery thermal management system: A state-of-the-art review",
+    "authors": "Ao Li; Jingwen Weng; Anthony Chun Yin Yuen; Wei Wang; Hengrui Liu; Eric Wai Ming Lee; Jian Wang; Sanghoon Kook; Guan Heng Yeoh",
+    "year": 2023,
+    "journal": "Journal of Energy Storage",
+    "doi": "10.1016/j.est.2023.106688",
+    "url": "https://doi.org/10.1016/j.est.2023.106688",
+    "volume": "60",
+    "pages": "106688",
+    "themes": [
+      "battery-safety",
+      "thermal-management"
+    ],
+    "image": "/assets/journal-covers/journal-of-energy-storage-W186-1.png"
+  },
+  {
+    "id": "W061",
+    "title": "Nano architectured halloysite nanotubes enable advanced composite separator for safe lithium metal batteries",
+    "authors": "Wei Wang; Anthony Chun Yin Yuen; Yao Yuan; Can Liao; Ao Li; Imrana I. Kabir; Yongchun Kan; Yuan Hu; Guan Heng Yeoh",
+    "year": 2023,
+    "journal": "Chemical Engineering Journal",
+    "doi": "10.1016/j.cej.2022.138496",
+    "url": "https://doi.org/10.1016/j.cej.2022.138496",
+    "volume": "451",
+    "pages": "138496",
+    "themes": [
+      "battery-safety"
+    ],
+    "author_role": "First author",
+    "primary_author": true,
+    "image": "/assets/journal-covers/chemical-engineering-journal-W181-1.png"
+  },
+  {
+    "id": "W060",
+    "title": "Design of Hierarchically Tailored Hybrids Based on Nickle Nanocrystal-Decorated Manganese Dioxides for Enhanced Fire Safety of Epoxy Resin",
+    "authors": "Yao Yuan; Chen Liang; Anthony Chun Yin Yuen; Lulu Xu; Bin Yu; Chengfei Cao; Wei Wang",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms232213711",
+    "url": "https://doi.org/10.3390/ijms232213711",
+    "volume": "23",
+    "pages": "13711",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-international-journal-of-molecular-sciences.png"
+  },
+  {
+    "id": "W059",
+    "title": "Thermal Propagation Modelling of Abnormal Heat Generation in Various Battery Cell Locations",
+    "authors": "Ao Li; Anthony Chun Yin Yuen; Wei Wang; Jingwen Weng; Chun Sing Lai; Sanghoon Kook; Guan Heng Yeoh",
+    "year": 2022,
+    "journal": "Batteries",
+    "doi": "10.3390/batteries8110216",
+    "url": "https://doi.org/10.3390/batteries8110216",
+    "volume": "8",
+    "pages": "216",
+    "themes": [
+      "battery-safety"
+    ],
+    "author_role": "Co-author",
+    "primary_author": false,
+    "image": "/assets/journal-covers/batteries.png"
+  },
+  {
+    "id": "W058",
+    "title": "Numerical investigation on the thermal management of lithium-ion battery system and cooling effect optimization",
+    "authors": "Ao Li; Anthony Chun Yin Yuen; Wei Wang; Jingwen Weng; Guan Heng Yeoh",
+    "year": 2022,
+    "journal": "Applied Thermal Engineering",
+    "doi": "10.1016/j.applthermaleng.2022.118966",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2022.118966",
+    "volume": "215",
+    "pages": "118966",
+    "themes": [
+      "battery-safety",
+      "thermal-management"
+    ],
+    "image": "/assets/journal-covers/applied-thermal-engineering-W058-0.png"
+  },
+  {
+    "id": "W057",
+    "title": "The influence of poorly-/well-dispersed organo-montmorillonite on interfacial compatibility, fire retardancy and smoke suppression of polypropylene/intumescent flame retardant composite system",
+    "authors": "Yao Yuan; Bin Yu; Wei Wang",
+    "year": 2022,
+    "journal": "Journal of Colloid and Interface Science",
+    "doi": "10.1016/j.jcis.2022.04.101",
+    "url": "https://doi.org/10.1016/j.jcis.2022.04.101",
+    "volume": "622",
+    "pages": "367-377",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "author_role": "Sole corresponding author",
+    "primary_author": true,
+    "image": "/assets/journal-covers/journal-of-colloid-and-interface-science-W057-2.png"
+  },
+  {
+    "id": "W056",
+    "title": "A triazine-based hyperbranched char-forming agent for efficient intumescent flame retardant Poly(lactic acid) composites",
+    "authors": "Wenhao Liang; Bin Yu; Wei Wang; Yi Xiao; Yao Yuan",
+    "year": 2022,
+    "journal": "Composites Communications",
+    "doi": "10.1016/j.coco.2022.101225",
+    "url": "https://doi.org/10.1016/j.coco.2022.101225",
+    "volume": "33",
+    "pages": "101225",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/composites-communications-W170-2.png"
+  },
+  {
+    "id": "W055",
+    "title": "Integration of Computational Fluid Dynamics and Artificial Neural Network for Optimization Design of Battery Thermal Management System",
+    "authors": "Ao Li; Anthony Chun Yin Yuen; Wei Wang; Timothy Bo Yuan Chen; Chun Sing Lai; Wei Yang; Wei Wu; Qing Nian Chan; Sanghoon Kook; Guan Heng Yeoh",
+    "year": 2022,
+    "journal": "Batteries",
+    "doi": "10.3390/batteries8070069",
+    "url": "https://doi.org/10.3390/batteries8070069",
+    "volume": "8",
+    "pages": "69",
+    "themes": [
+      "battery-safety",
+      "thermal-management"
+    ],
+    "image": "/assets/journal-covers/batteries.png"
+  },
+  {
+    "id": "W054",
+    "title": "Atomistic characterisation of graphite oxidation and thermal decomposition mechanism under isothermal and Non-Isothermal heating scheme",
+    "authors": "Ivan Miguel De Cachinho Cordeiro; Anthony Chun Yin Yuen; Timothy Bo Yuan Chen; Wei Wang; Wei Yang; Qing Nian Chan; Guan Heng Yeoh",
+    "year": 2022,
+    "journal": "Computational Materials Science",
+    "doi": "10.1016/j.commatsci.2022.111458",
+    "url": "https://doi.org/10.1016/j.commatsci.2022.111458",
+    "volume": "210",
+    "pages": "111458",
+    "themes": [],
+    "image": "/assets/journal-covers/computational-materials-science-W054-0.png"
+  },
+  {
+    "id": "W053",
+    "title": "Hierarchical core–shell SiO2@COFs@metallic oxide architecture: An efficient flame retardant and toxic smoke suppression for polystyrene",
+    "authors": "Xiaowei Mu; Yuling Xiao; Wei Cai; Zhu Yulu; Wei Wang; Xingjun Li; Xin Wang; Lei Song",
+    "year": 2022,
+    "journal": "Journal of Colloid and Interface Science",
+    "doi": "10.1016/j.jcis.2021.07.100",
+    "url": "https://doi.org/10.1016/j.jcis.2021.07.100",
+    "volume": "605",
+    "pages": "241-252",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/journal-of-colloid-and-interface-science-W057-2.png"
+  },
+  {
+    "id": "W052",
+    "title": "Peanut Shell Derived Carbon Combined with Nano Cobalt: An Effective Flame Retardant for Epoxy Resin",
+    "authors": "Jing Liang; Wenhao Yang; Anthony Chun Yin Yuen; Hu Long; Shuilai Qiu; Ivan Miguel De Cachinho Cordeiro; Wei Wang; Timothy Bo Yuan Chen; Yuan Hu; Guan Heng Yeoh",
+    "year": 2021,
+    "journal": "Molecules",
+    "doi": "10.3390/molecules26216662",
+    "url": "https://doi.org/10.3390/molecules26216662",
+    "volume": "26",
+    "pages": "6662",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-molecules.png"
+  },
+  {
+    "id": "W051",
+    "title": "Random nano-structuring of PVA/MXene membranes for outstanding flammability resistance and electromagnetic interference shielding performances",
+    "authors": "Wei Wang; Anthony Chun Yin Yuen; Hu Long; Wei Yang; Ao Li; Lei Song; Yuan Hu; Guan Heng Yeoh",
+    "year": 2021,
+    "journal": "Composites Part B: Engineering",
+    "doi": "10.1016/j.compositesb.2021.109174",
+    "url": "https://doi.org/10.1016/j.compositesb.2021.109174",
+    "volume": "224",
+    "pages": "109174",
+    "themes": [
+      "protective-structures",
+      "aerospace-extreme-environments"
+    ],
+    "author_role": "First author",
+    "primary_author": true,
+    "image": "/assets/journal-covers/composites-part-b-engineering-W051-0.png"
+  },
+  {
+    "id": "W050",
+    "title": "Surface modification of multi-scale cuprous oxide with tunable catalytic activity towards toxic fumes and smoke suppression of rigid polyurethane foam",
+    "authors": "Yao Yuan; Wei Wang; Yi Xiao; Anthony Chun Yin Yuen; Long Mao; Haifeng Pan; Bin Yu; Yuan Hu",
+    "year": 2021,
+    "journal": "Applied Surface Science",
+    "doi": "10.1016/j.apsusc.2021.149792",
+    "url": "https://doi.org/10.1016/j.apsusc.2021.149792",
+    "volume": "556",
+    "pages": "149792",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/applied-surface-science-W050-0.png"
+  },
+  {
+    "id": "W049",
+    "title": "Magnetron sputtering deposition of silicon nitride on polyimide separator for high-temperature lithium-ion batteries",
+    "authors": "Can Liao; Wei Wang; Junling Wang; Longfei Han; Shuilai Qiu; Lei Song; Zhou Gui; Yongchun Kan; Yuan Hu",
+    "year": 2021,
+    "journal": "Journal of Energy Chemistry",
+    "doi": "10.1016/j.jechem.2020.07.046",
+    "url": "https://doi.org/10.1016/j.jechem.2020.07.046",
+    "volume": "56",
+    "pages": "1-10",
+    "themes": [
+      "battery-safety",
+      "protective-structures"
+    ],
+    "image": "/assets/journal-covers/journal-of-energy-chemistry-public-version.png"
+  },
+  {
+    "id": "W048",
+    "title": "Design of compressible flame retardant grafted porous organic polymer based separator with high fire safety and good electrochemical properties",
+    "authors": "Xiaowei Mu; Xia Zhou; Wei Wang; Yuling Xiao; Can Liao; Han Longfei; Yongchun Kan; Lei Song",
+    "year": 2021,
+    "journal": "Chemical Engineering Journal",
+    "doi": "10.1016/j.cej.2020.126946",
+    "url": "https://doi.org/10.1016/j.cej.2020.126946",
+    "volume": "405",
+    "pages": "126946",
+    "themes": [
+      "battery-safety",
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/chemical-engineering-journal-W181-1.png"
+  },
+  {
+    "id": "W047",
+    "title": "A Review on Lithium-Ion Battery Separators towards Enhanced Safety Performances and Modelling Approaches",
+    "authors": "Ao Li; Anthony Chun Yin Yuen; Wei Wang; Ivan Miguel De Cachinho Cordeiro; Cheng Wang; Timothy Bo Yuan Chen; Jin Zhang; Qing Nian Chan; Guan Heng Yeoh",
+    "year": 2021,
+    "journal": "Molecules",
+    "doi": "10.3390/molecules26020478",
+    "url": "https://doi.org/10.3390/molecules26020478",
+    "volume": "26",
+    "pages": "478",
+    "themes": [
+      "battery-safety"
+    ],
+    "image": "/assets/journal-covers/extra-molecules.png"
+  },
+  {
+    "id": "W046",
+    "title": "Polymeric one-side conductive Janus separator with preferably oriented pores for enhancing lithium metal battery safety",
+    "authors": "Lulu Xu; Xiu Yun Daphne Ma; Wei Wang; Jian Liu; Zhe Wang; Xuehong Lu",
+    "year": 2021,
+    "journal": "Journal of Materials Chemistry A",
+    "doi": "10.1039/d0ta10073k",
+    "url": "https://doi.org/10.1039/d0ta10073k",
+    "volume": "9",
+    "pages": "3409-3417",
+    "themes": [
+      "battery-safety"
+    ],
+    "image": "/assets/journal-covers/extra-journal-of-materials-chemistry-a.jpg"
+  },
+  {
+    "id": "W045",
+    "title": "A flame retardant sandwiched separator coated with ammonium polyphosphate wrapped by SiO2 on commercial polyolefin for high performance safety lithium metal batteries",
+    "authors": "Can Liao; Wei Wang; Longfei Han; Xiaowei Mu; Na Wu; Junling Wang; Zhou Gui; Yuan Hu; Yongchun Kan; Lei Song",
+    "year": 2020,
+    "journal": "Applied Materials Today",
+    "doi": "10.1016/j.apmt.2020.100793",
+    "url": "https://doi.org/10.1016/j.apmt.2020.100793",
+    "volume": "21",
+    "pages": "100793",
+    "themes": [
+      "battery-safety",
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/applied-materials-today-W163-1.png"
+  },
+  {
+    "id": "W044",
+    "title": "Combustion behavior characterization of major crops through cone calorimeter",
+    "authors": "Wei Cai; Zhixin Zhao; Wei Wang; Wenwen Guo; Xin Wang; Yuan Hu",
+    "year": 2020,
+    "journal": "Fire and Materials",
+    "doi": "10.1002/fam.2843",
+    "url": "https://doi.org/10.1002/fam.2843",
+    "volume": "44",
+    "pages": "693-703",
+    "themes": [],
+    "image": "/assets/journal-covers/extra-fire-and-materials.png"
+  },
+  {
+    "id": "W043",
+    "title": "Multifunctional MXene/natural rubber composite films with exceptional flexibility and durability",
+    "authors": "Wei Yang; Jun-Jie Liu; Li-Li Wang; Wei Wang; Anthony Chun Yin Yuen; Shuhua Peng; Bin Yu; Hong-Dian Lu; Guan Heng Yeoh; Chun-Hui Wang",
+    "year": 2020,
+    "journal": "Composites Part B: Engineering",
+    "doi": "10.1016/j.compositesb.2020.107875",
+    "url": "https://doi.org/10.1016/j.compositesb.2020.107875",
+    "volume": "188",
+    "pages": "107875",
+    "themes": [],
+    "image": "/assets/journal-covers/composites-part-b-engineering-W051-0.png"
+  },
+  {
+    "id": "W042",
+    "title": "Controlled self-template synthesis of manganese-based cuprous oxide nanoplates towards improved fire safety properties of epoxy composites",
+    "authors": "Wei Wang; Yao Yuan; Bin Yu; Kim Meow Liew; Richard K.K. Yuen; Jiajia Liu; Yuan Hu",
+    "year": 2020,
+    "journal": "Journal of Hazardous Materials",
+    "doi": "10.1016/j.jhazmat.2019.122006",
+    "url": "https://doi.org/10.1016/j.jhazmat.2019.122006",
+    "volume": "387",
+    "pages": "122006",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/journal-of-hazardous-materials-W042-3.png"
+  },
+  {
+    "id": "W041",
+    "title": "The influence of highly dispersed Cu2O-anchored MoS2 hybrids on reducing smoke toxicity and fire hazards for rigid polyurethane foam",
+    "authors": "Yao Yuan; Wei Wang; Yongqian Shi; Lei Song; Chao Ma; Yuan Hu",
+    "year": 2020,
+    "journal": "Journal of Hazardous Materials",
+    "doi": "10.1016/j.jhazmat.2019.121028",
+    "url": "https://doi.org/10.1016/j.jhazmat.2019.121028",
+    "volume": "382",
+    "pages": "121028",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/journal-of-hazardous-materials-W042-3.png"
+  },
+  {
+    "id": "W040",
+    "title": "Insight into Hyper-Branched Aluminum Phosphonate in Combination with Multiple Phosphorus Synergies for Fire-Safe Epoxy Resin Composites",
+    "authors": "Yao Yuan; Bin Yu; Yongqian Shi; Long Mao; Jianda Xie; Haifeng Pan; Yuejun Liu; Wei Wang",
+    "year": 2020,
+    "journal": "Polymers",
+    "doi": "10.3390/polym12010064",
+    "url": "https://doi.org/10.3390/polym12010064",
+    "volume": "12",
+    "pages": "64",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-polymers.png"
+  },
+  {
+    "id": "W039",
+    "title": "Construction of SiO2@UiO-66 core–shell microarchitectures through covalent linkage as flame retardant and smoke suppressant for epoxy resins",
+    "authors": "Wenwen Guo; Shibin Nie; Ehsan Naderi Kalali; Xin Wang; Wei Wang; Wei Cai; Lei Song; Yuan Hu",
+    "year": 2019,
+    "journal": "Composites Part B: Engineering",
+    "doi": "10.1016/j.compositesb.2019.107261",
+    "url": "https://doi.org/10.1016/j.compositesb.2019.107261",
+    "volume": "176",
+    "pages": "107261",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/composites-part-b-engineering-W051-0.png"
+  },
+  {
+    "id": "W038",
+    "title": "Eco-friendly flame retardant and electromagnetic interference shielding cotton fabrics with multi-layered coatings",
+    "authors": "Yan Zhang; Wenxiang Tian; Longxiang Liu; Wenhua Cheng; Wei Wang; Kim Meow Liew; Bibo Wang; Yuan Hu",
+    "year": 2019,
+    "journal": "Chemical Engineering Journal",
+    "doi": "10.1016/j.cej.2019.05.012",
+    "url": "https://doi.org/10.1016/j.cej.2019.05.012",
+    "volume": "372",
+    "pages": "1077-1090",
+    "themes": [
+      "fire-safe-composites",
+      "protective-structures",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/chemical-engineering-journal-W181-1.png"
+  },
+  {
+    "id": "W037",
+    "title": "Construction of hierarchical MoS2@TiO2 structure for the high performance bimaleimide system with excellent fire safety and mechanical properties",
+    "authors": "Xia Zhou; Shuilai Qiu; Wei Cai; Longxiang Liu; Yanbei Hou; Wei Wang; Lei Song; Xin Wang; Yuan Hu",
+    "year": 2019,
+    "journal": "Chemical Engineering Journal",
+    "doi": "10.1016/j.cej.2019.02.181",
+    "url": "https://doi.org/10.1016/j.cej.2019.02.181",
+    "volume": "369",
+    "pages": "451-462",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/chemical-engineering-journal-W181-1.png"
+  },
+  {
+    "id": "W036",
+    "title": "Substrate-versatile approach to fabricate mechanochemically robust and superhydrophobic surfaces from waste fly ash",
+    "authors": "Longxiang Liu; Yanbei Hou; Ying Pan; Jiajia Liu; Wei Wang; Junling Wang; Xin Wang; Yuan Hu; Zhou Gui",
+    "year": 2019,
+    "journal": "Progress in Organic Coatings",
+    "doi": "10.1016/j.porgcoat.2019.03.052",
+    "url": "https://doi.org/10.1016/j.porgcoat.2019.03.052",
+    "volume": "132",
+    "pages": "353-361",
+    "themes": [
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/progress-in-organic-coatings-W125-1.png"
+  },
+  {
+    "id": "W035",
+    "title": "Nanosized bimetal-organic frameworks as robust coating for multi-functional flexible polyurethane foam: Rapid oil-absorption and excellent fire safety",
+    "authors": "Yanbei Hou; Zhoumei Xu; Yao Yuan; Longxiang Liu; Shicong Ma; Wei Wang; Yuan Hu; Weizhao Hu; Zhou Gui",
+    "year": 2019,
+    "journal": "Composites Science and Technology",
+    "doi": "10.1016/j.compscitech.2019.04.018",
+    "url": "https://doi.org/10.1016/j.compscitech.2019.04.018",
+    "volume": "177",
+    "pages": "66-72",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/composites-science-and-technology-W035-2.png"
+  },
+  {
+    "id": "W034",
+    "title": "Enhanced Electrochemical and Safety Performance of Lithium Metal Batteries Enabled by the Atom Layer Deposition on PVDF-HFP Separator",
+    "authors": "Wei Wang; Yao Yuan; Junling Wang; Yan Zhang; Can Liao; Xiaowei Mu; Haibo Sheng; Yongchun Kan; Lei Song; Yuan Hu",
+    "year": 2019,
+    "journal": "ACS Applied Energy Materials",
+    "doi": "10.1021/acsaem.9b00383",
+    "url": "https://doi.org/10.1021/acsaem.9b00383",
+    "volume": "2",
+    "pages": "4167-4174",
+    "themes": [
+      "battery-safety"
+    ],
+    "image": "/assets/journal-covers/extra-acs-applied-energy-materials.jpg"
+  },
+  {
+    "id": "W033",
+    "title": "Comparable investigation of tervalent and pentavalent phosphorus based flame retardants on improving the safety and capacity of lithium-ion batteries",
+    "authors": "Wei Wang; Can Liao; Longxiang Liu; Wei Cai; Yao Yuan; Yanbei Hou; Wenwen Guo; Xia Zhou; Shuilai Qiu; Lei Song; Yongchun Kan; Yuan Hu",
+    "year": 2019,
+    "journal": "Journal of Power Sources",
+    "doi": "10.1016/j.jpowsour.2019.02.037",
+    "url": "https://doi.org/10.1016/j.jpowsour.2019.02.037",
+    "volume": "420",
+    "pages": "143-151",
+    "themes": [
+      "battery-safety",
+      "fire-safe-composites"
+    ],
+    "author_role": "First author",
+    "primary_author": true,
+    "image": "/assets/journal-covers/journal-of-power-sources-W033-2.png"
+  },
+  {
+    "id": "W032",
+    "title": "Electrochemically Exfoliated Functionalized Black Phosphorene and Its Polyurethane Acrylate Nanocomposites: Synthesis and Applications",
+    "authors": "Shuilai Qiu; Bin Zou; Haibo Sheng; Wenwen Guo; Junling Wang; Yuyu Zhao; Wei Wang; Richard K. K. Yuen; Yongchun Kan; Yuan Hu",
+    "year": 2019,
+    "journal": "ACS Applied Materials & Interfaces",
+    "doi": "10.1021/acsami.8b22115",
+    "url": "https://doi.org/10.1021/acsami.8b22115",
+    "volume": "11",
+    "pages": "13652-13664",
+    "themes": [],
+    "image": "/assets/journal-covers/extra-acs-applied-materials-interfaces-W092-1.png"
+  },
+  {
+    "id": "W031",
+    "title": "Electrostatic-Interaction-Driven Assembly of Binary Hybrids towards Fire-Safe Epoxy Resin Nanocomposites",
+    "authors": "Lu Liu; Wei Wang; Yongqian Shi; Libi Fu; Lulu Xu; Bin Yu",
+    "year": 2019,
+    "journal": "Polymers",
+    "doi": "10.3390/polym11020229",
+    "url": "https://doi.org/10.3390/polym11020229",
+    "volume": "11",
+    "pages": "229",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-polymers.png"
+  },
+  {
+    "id": "W030",
+    "title": "A 3D flexible and robust HAPs/PVA separator prepared by a freezing-drying method for safe lithium metal batteries",
+    "authors": "Wei Wang; Can Liao; Kim Meow Liew; Zonghai Chen; Lei Song; Yongchun Kan; Yuan Hu",
+    "year": 2019,
+    "journal": "Journal of Materials Chemistry A",
+    "doi": "10.1039/c8ta11795k",
+    "url": "https://doi.org/10.1039/c8ta11795k",
+    "volume": "7",
+    "pages": "6859-6868",
+    "themes": [
+      "battery-safety"
+    ],
+    "image": "/assets/journal-covers/extra-journal-of-materials-chemistry-a.jpg"
+  },
+  {
+    "id": "W029",
+    "title": "1/2D SnO2 nanowires on MnO2 nanosheets hybrid architecture for reducing fire hazards of epoxy nanocomposites",
+    "authors": "Jiajia Liu; Wei Wang; Richard K.K. Yuen; Zhou Gui; Yuan Hu",
+    "year": 2018,
+    "journal": "Composites Part A: Applied Science and Manufacturing",
+    "doi": "10.1016/j.compositesa.2018.01.026",
+    "url": "https://doi.org/10.1016/j.compositesa.2018.01.026",
+    "volume": "107",
+    "pages": "461-470",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/composites-part-a-applied-science-and-manufacturing-W068-0.png"
+  },
+  {
+    "id": "W028",
+    "title": "Comparative investigation on combustion property and smoke toxicity of epoxy resin filled with α- and δ-MnO2 nanosheets",
+    "authors": "Wei Wang; Yongchun Kan; Kim Meow Liew; Lei Song; Yuan Hu",
+    "year": 2018,
+    "journal": "Composites Part A: Applied Science and Manufacturing",
+    "doi": "10.1016/j.compositesa.2017.12.021",
+    "url": "https://doi.org/10.1016/j.compositesa.2017.12.021",
+    "volume": "107",
+    "pages": "39-46",
+    "themes": [],
+    "image": "/assets/journal-covers/composites-part-a-applied-science-and-manufacturing-W068-0.png"
+  },
+  {
+    "id": "W027",
+    "title": "Self-assembly of zinc hydroxystannate on amorphous hydrous TiO2 solid sphere for enhancing fire safety of epoxy resin",
+    "authors": "Wei Wang; Yongchun Kan; Jiajia Liu; Kim Meow Liew; Lei Liu; Yuan Hu",
+    "year": 2017,
+    "journal": "Journal of Hazardous Materials",
+    "doi": "10.1016/j.jhazmat.2017.06.068",
+    "url": "https://doi.org/10.1016/j.jhazmat.2017.06.068",
+    "volume": "340",
+    "pages": "263-271",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/journal-of-hazardous-materials-W042-3.png"
+  },
+  {
+    "id": "W026",
+    "title": "Synthesis of a novel charring agent containing pentaerythritol and triazine structure and its intumescent flame retardant performance for polypropylene",
+    "authors": "Wei Wang; Panyue Wen; Jing Zhan; Ningning Hong; Wei Cai; Zhou Gui; Yuan Hu",
+    "year": 2017,
+    "journal": "Polymer Degradation and Stability",
+    "doi": "10.1016/j.polymdegradstab.2017.09.011",
+    "url": "https://doi.org/10.1016/j.polymdegradstab.2017.09.011",
+    "volume": "144",
+    "pages": "454-463",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/polymer-degradation-and-stability-W191-2.png"
+  },
+  {
+    "id": "W025",
+    "title": "Influences of metal ions crosslinked alginate based coatings on thermal stability and fire resistance of cotton fabrics",
+    "authors": "Ying Pan; Wei Wang; Longxiang Liu; Hua Ge; Lei Song; Yuan Hu",
+    "year": 2017,
+    "journal": "Carbohydrate Polymers",
+    "doi": "10.1016/j.carbpol.2017.04.065",
+    "url": "https://doi.org/10.1016/j.carbpol.2017.04.065",
+    "volume": "170",
+    "pages": "133-139",
+    "themes": [
+      "fire-safe-composites",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/carbohydrate-polymers-W172-1.png"
+  },
+  {
+    "id": "W024",
+    "title": "A green approach to constructing multilayered nanocoating for flame retardant treatment of polyamide 66 fabric from chitosan and sodium alginate",
+    "authors": "Chanchal Kumar Kundu; Wei Wang; Shun Zhou; Xin Wang; Haibo Sheng; Ying Pan; Lei Song; Yuan Hu",
+    "year": 2017,
+    "journal": "Carbohydrate Polymers",
+    "doi": "10.1016/j.carbpol.2017.02.084",
+    "url": "https://doi.org/10.1016/j.carbpol.2017.02.084",
+    "volume": "166",
+    "pages": "131-138",
+    "themes": [
+      "fire-safe-composites",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/carbohydrate-polymers-W172-1.png"
+  },
+  {
+    "id": "W023",
+    "title": "Synthesis of Phosphorylated Graphene Oxide Based Multilayer Coating: Self-Assembly Method and Application for Improving the Fire Safety of Cotton Fabrics",
+    "authors": "Wei Wang; Xin Wang; Ying Pan; Kim Meow Liew; Ola A. Mohamed; Lei Song; Yuan Hu",
+    "year": 2017,
+    "journal": "Industrial & Engineering Chemistry Research",
+    "doi": "10.1021/acs.iecr.7b01293",
+    "url": "https://doi.org/10.1021/acs.iecr.7b01293",
+    "volume": "56",
+    "pages": "6664-6670",
+    "themes": [
+      "fire-safe-composites",
+      "textiles-sensors"
+    ],
+    "author_role": "First author",
+    "primary_author": true,
+    "image": "/assets/journal-covers/industrial-engineering-chemistry-research-W074-1.png"
+  },
+  {
+    "id": "W022",
+    "title": "Synthesis of MnO 2 nanoparticles with different morphologies and application for improving the fire safety of epoxy",
+    "authors": "Wei Wang; Yongchun Kan; Bin Yu; Ying Pan; K.M. Liew; Lei Song; Yuan Hu",
+    "year": 2017,
+    "journal": "Composites Part A: Applied Science and Manufacturing",
+    "doi": "10.1016/j.compositesa.2017.01.009",
+    "url": "https://doi.org/10.1016/j.compositesa.2017.01.009",
+    "volume": "95",
+    "pages": "173-182",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/composites-part-a-applied-science-and-manufacturing-W068-0.png"
+  },
+  {
+    "id": "W021",
+    "title": "Phosphorylated cellulose applied for the exfoliation of LDH: An advanced reinforcement for polyvinyl alcohol",
+    "authors": "Wei Wang; Yongchun Kan; Haifeng Pan; Ying Pan; Baoguang Li; K.M. Liew; Yuan Hu",
+    "year": 2017,
+    "journal": "Composites Part A: Applied Science and Manufacturing",
+    "doi": "10.1016/j.compositesa.2016.11.031",
+    "url": "https://doi.org/10.1016/j.compositesa.2016.11.031",
+    "volume": "94",
+    "pages": "170-177",
+    "themes": [],
+    "image": "/assets/journal-covers/composites-part-a-applied-science-and-manufacturing-W068-0.png"
+  },
+  {
+    "id": "W020",
+    "title": "Urchinlike Shells of TiO2 Hollow Spheres for Improving the Fire Safety of Epoxy Resin",
+    "authors": "Wei Wang; Yongchun Kan; Ying Pan; Yao Yuan; Kim Meow Liew; Yuan Hu",
+    "year": 2017,
+    "journal": "Industrial & Engineering Chemistry Research",
+    "doi": "10.1021/acs.iecr.6b03979",
+    "url": "https://doi.org/10.1021/acs.iecr.6b03979",
+    "volume": "56",
+    "pages": "1341-1348",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/industrial-engineering-chemistry-research-W074-1.png"
+  },
+  {
+    "id": "W019",
+    "title": "Hyperbranched phosphorus/nitrogen-containing polymer in combination with ammonium polyphosphate as a novel flame retardant system for polypropylene",
+    "authors": "Lijin Duan; Hongyu Yang; Lei Song; Yanbei Hou; Wei Wang; Zhou Gui; Yuan Hu",
+    "year": 2016,
+    "journal": "Polymer Degradation and Stability",
+    "doi": "10.1016/j.polymdegradstab.2016.10.004",
+    "url": "https://doi.org/10.1016/j.polymdegradstab.2016.10.004",
+    "volume": "134",
+    "pages": "179-185",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/polymer-degradation-and-stability-W191-2.png"
+  },
+  {
+    "id": "W018",
+    "title": "Phosphorus and Nitrogen-Containing Polyols: Synergistic Effect on the Thermal Property and Flame Retardancy of Rigid Polyurethane Foam Composites",
+    "authors": "Yao Yuan; Hongyu Yang; Bin Yu; Yongqian Shi; Wei Wang; Lei Song; Yuan Hu; Yongming Zhang",
+    "year": 2016,
+    "journal": "Industrial & Engineering Chemistry Research",
+    "doi": "10.1021/acs.iecr.6b02942",
+    "url": "https://doi.org/10.1021/acs.iecr.6b02942",
+    "volume": "55",
+    "pages": "10813-10822",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/industrial-engineering-chemistry-research-W074-1.png"
+  },
+  {
+    "id": "W017",
+    "title": "Effect of Fully Biobased Coatings Constructed via Layer-by-Layer Assembly of Chitosan and Lignosulfonate on the Thermal, Flame Retardant, and Mechanical Properties of Flexible Polyurethane Foam",
+    "authors": "Ying Pan; Jing Zhan; Haifeng Pan; Wei Wang; Gang Tang; Lei Song; Yuan Hu",
+    "year": 2016,
+    "journal": "ACS Sustainable Chemistry & Engineering",
+    "doi": "10.1021/acssuschemeng.5b01423",
+    "url": "https://doi.org/10.1021/acssuschemeng.5b01423",
+    "volume": "4",
+    "pages": "1431-1438",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-acs-sustainable-chemistry-engineering-W143-1.png"
+  },
+  {
+    "id": "W016",
+    "title": "Synthesis and characterization of MnO2 nanosheets based multilayer coating and applications as a flame retardant for flexible polyurethane foam",
+    "authors": "Wei Wang; Ying Pan; Haifeng Pan; Wei Yang; K.M. Liew; Lei Song; Yuan Hu",
+    "year": 2016,
+    "journal": "Composites Science and Technology",
+    "doi": "10.1016/j.compscitech.2015.12.014",
+    "url": "https://doi.org/10.1016/j.compscitech.2015.12.014",
+    "volume": "123",
+    "pages": "212-221",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/composites-science-and-technology-W035-2.png"
+  },
+  {
+    "id": "W015",
+    "title": "Novel incorporation of mesoporous NiCo\n                    2\n                    O\n                    4\n                    into thermoplastic polyurethane for enhancing its fire safety",
+    "authors": "Junling Wang; Bihe Yuan; Xiaowei Mu; Wei Wang; Weizhao Hu; Yuan Hu",
+    "year": 2016,
+    "journal": "RSC Advances",
+    "doi": "10.1039/c6ra24264b",
+    "url": "https://doi.org/10.1039/c6ra24264b",
+    "volume": "6",
+    "pages": "109620-109632",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-rsc-advances.webp"
+  },
+  {
+    "id": "W014",
+    "title": "An inherently flame-retardant polyamide containing a phosphorus pendent group prepared by interfacial polymerization",
+    "authors": "Hua Ge; Wei Wang; Ying Pan; Xiaojuan Yu; Weizhao Hu; Yuan Hu",
+    "year": 2016,
+    "journal": "RSC Advances",
+    "doi": "10.1039/c6ra17108g",
+    "url": "https://doi.org/10.1039/c6ra17108g",
+    "volume": "6",
+    "pages": "81802-81808",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-rsc-advances.webp"
+  },
+  {
+    "id": "W013",
+    "title": "Comparative study of layer by layer assembled multilayer films based on graphene oxide and reduced graphene oxide on flexible polyurethane foam: flame retardant and smoke suppression properties",
+    "authors": "Haifeng Pan; Bihao Yu; Wei Wang; Ying Pan; Lei Song; Yuan Hu",
+    "year": 2016,
+    "journal": "RSC Advances",
+    "doi": "10.1039/c6ra15522g",
+    "url": "https://doi.org/10.1039/c6ra15522g",
+    "volume": "6",
+    "pages": "114304-114312",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-rsc-advances.webp"
+  },
+  {
+    "id": "W012",
+    "title": "Fabrication of flame retardant coating on cotton fabric by alternate assembly of exfoliated layered double hydroxides and alginate",
+    "authors": "Haifeng Pan; Wei Wang; Qi Shen; Ying Pan; Lei Song; Yuan Hu; Yushi Lu",
+    "year": 2016,
+    "journal": "RSC Advances",
+    "doi": "10.1039/c6ra21804k",
+    "url": "https://doi.org/10.1039/c6ra21804k",
+    "volume": "6",
+    "pages": "111950-111958",
+    "themes": [
+      "fire-safe-composites",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/extra-rsc-advances.webp"
+  },
+  {
+    "id": "W011",
+    "title": "Fabrication of montmorillonite and titanate nanotube based coatings via layer-by-layer self-assembly method to enhance the thermal stability, flame retardancy and ultraviolet protection of polyethylene terephthalate (PET) fabric",
+    "authors": "Ying Pan; Wei Wang; Haifeng Pan; Jing Zhan; Yuan Hu",
+    "year": 2016,
+    "journal": "RSC Advances",
+    "doi": "10.1039/c6ra05213d",
+    "url": "https://doi.org/10.1039/c6ra05213d",
+    "volume": "6",
+    "pages": "53625-53634",
+    "themes": [
+      "fire-safe-composites",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/extra-rsc-advances.webp"
+  },
+  {
+    "id": "W010",
+    "title": "Fabrication of LDH nanosheets on β-FeOOH rods and applications for improving the fire safety of epoxy resin",
+    "authors": "Wei Wang; Haifeng Pan; Yongqian Shi; Ying Pan; Wei Yang; K.M. Liew; Lei Song; Yuan Hu",
+    "year": 2016,
+    "journal": "Composites Part A: Applied Science and Manufacturing",
+    "doi": "10.1016/j.compositesa.2015.10.031",
+    "url": "https://doi.org/10.1016/j.compositesa.2015.10.031",
+    "volume": "80",
+    "pages": "259-269",
+    "themes": [
+      "fire-safe-composites",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/composites-part-a-applied-science-and-manufacturing-W068-0.png"
+  },
+  {
+    "id": "W009",
+    "title": "Sandwichlike Coating Consisting of Alternating Montmorillonite and β-FeOOH for Reducing the Fire Hazard of Flexible Polyurethane Foam",
+    "authors": "Wei Wang; Haifeng Pan; Yongqian Shi; Bin Yu; Ying Pan; Kim Meow Liew; Lei Song; Yuan Hu",
+    "year": 2015,
+    "journal": "ACS Sustainable Chemistry & Engineering",
+    "doi": "10.1021/acssuschemeng.5b00805",
+    "url": "https://doi.org/10.1021/acssuschemeng.5b00805",
+    "volume": "3",
+    "pages": "3214-3223",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-acs-sustainable-chemistry-engineering-W143-1.png"
+  },
+  {
+    "id": "W008",
+    "title": "A facile method to fabricate superoleophilic and hydrophobic polyurethane foam for oil–water separation",
+    "authors": "Ying Pan; Jing Zhan; Haifeng Pan; Bihe Yuan; Wei Wang; Lei Song; Yuan Hu",
+    "year": 2015,
+    "journal": "Materials Letters",
+    "doi": "10.1016/j.matlet.2015.07.013",
+    "url": "https://doi.org/10.1016/j.matlet.2015.07.013",
+    "volume": "159",
+    "pages": "345-348",
+    "themes": [
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/materials-letters-W008-1.png"
+  },
+  {
+    "id": "W007",
+    "title": "Construction of layer-by-layer assembled chitosan/titanate nanotubes based nanocoating on cotton fabrics: flame retardant performance and combustion behavior",
+    "authors": "Haifeng Pan; Wei Wang; Ying Pan; Wenru Zeng; Jing Zhan; Lei Song; Yuan Hu; Kim Meow Liew",
+    "year": 2015,
+    "journal": "Cellulose",
+    "doi": "10.1007/s10570-014-0536-4",
+    "url": "https://doi.org/10.1007/s10570-014-0536-4",
+    "volume": "22",
+    "pages": "911-923",
+    "themes": [
+      "fire-safe-composites",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/cellulose.webp"
+  },
+  {
+    "id": "W006",
+    "title": "Formation of self-extinguishing flame retardant biobased coating on cotton fabrics via Layer-by-Layer assembly of chitin derivatives",
+    "authors": "Haifeng Pan; Wei Wang; Ying Pan; Lei Song; Yuan Hu; Kim Meow Liew",
+    "year": 2015,
+    "journal": "Carbohydrate Polymers",
+    "doi": "10.1016/j.carbpol.2014.08.084",
+    "url": "https://doi.org/10.1016/j.carbpol.2014.08.084",
+    "volume": "115",
+    "pages": "516-524",
+    "themes": [
+      "fire-safe-composites",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/carbohydrate-polymers-W172-1.png"
+  },
+  {
+    "id": "W005",
+    "title": "Formation of Layer-by-Layer Assembled Titanate Nanotubes Filled Coating on Flexible Polyurethane Foam with Improved Flame Retardant and Smoke Suppression Properties",
+    "authors": "Haifeng Pan; Wei Wang; Ying Pan; Lei Song; Yuan Hu; Kim Meow Liew",
+    "year": 2015,
+    "journal": "ACS Applied Materials & Interfaces",
+    "doi": "10.1021/am507045g",
+    "url": "https://doi.org/10.1021/am507045g",
+    "volume": "7",
+    "pages": "101-111",
+    "themes": [
+      "fire-safe-composites"
+    ],
+    "image": "/assets/journal-covers/extra-acs-applied-materials-interfaces-W092-1.png"
+  },
+  {
+    "id": "W004",
+    "title": "A novel and effective method to fabricate flame retardant and smoke suppressed flexible polyurethane foam",
+    "authors": "Ying Pan; Jing Zhan; Haifeng Pan; Wei Wang; Hua Ge; Lei Song; Yuan Hu",
+    "year": 2015,
+    "journal": "RSC Advances",
+    "doi": "10.1039/c5ra09553k",
+    "url": "https://doi.org/10.1039/c5ra09553k",
+    "volume": "5",
+    "pages": "67878-67885",
+    "themes": [
+      "fire-safe-composites",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/extra-rsc-advances.webp"
+  },
+  {
+    "id": "W003",
+    "title": "Layered double hydroxide-decorated flexible polyurethane foam: significantly improved toxic effluent elimination",
+    "authors": "Lei Liu; Wei Wang; Yuan Hu",
+    "year": 2015,
+    "journal": "RSC Advances",
+    "doi": "10.1039/c5ra19414h",
+    "url": "https://doi.org/10.1039/c5ra19414h",
+    "volume": "5",
+    "pages": "97458-97466",
+    "themes": [],
+    "image": "/assets/journal-covers/extra-rsc-advances.webp"
+  },
+  {
+    "id": "W002",
+    "title": "Fabrication of carbon black coated flexible polyurethane foam for significantly improved fire safety",
+    "authors": "Wei Wang; Haifeng Pan; Bin Yu; Ying Pan; Lei Song; Kim Meow Liew; Yuan Hu",
+    "year": 2015,
+    "journal": "RSC Advances",
+    "doi": "10.1039/c5ra06170a",
+    "url": "https://doi.org/10.1039/c5ra06170a",
+    "volume": "5",
+    "pages": "55870-55878",
+    "themes": [
+      "fire-safe-composites",
+      "textiles-sensors"
+    ],
+    "image": "/assets/journal-covers/extra-rsc-advances.webp"
+  },
+  {
+    "id": "W001",
+    "title": "Synergistic Effect of Layer-by-Layer Assembled Thin Films Based on Clay and Carbon Nanotubes To Reduce the Flammability of Flexible Polyurethane Foam",
+    "authors": "Haifeng Pan; Ying Pan; Wei Wang; Lei Song; Yuan Hu; Kim Meow Liew",
+    "year": 2014,
+    "journal": "Industrial & Engineering Chemistry Research",
+    "doi": "10.1021/ie502215p",
+    "url": "https://doi.org/10.1021/ie502215p",
+    "volume": "53",
+    "pages": "14315-14321",
+    "themes": [],
+    "image": "/assets/journal-covers/industrial-engineering-chemistry-research-W074-1.png"
+  }
+]
